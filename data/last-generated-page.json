@@ -1,0 +1,140 @@
+{
+  "theme": "clean-white",
+  "design": {
+    "visualConcept": "Editorial clínico com fundo branco, acento verde de verificação, tipografia serif em títulos e sans-serif no corpo, cartões com borda sutil e espaço generoso",
+    "accentColor": "#15803d",
+    "backgroundColor": "#ffffff",
+    "surfaceColor": "#fafafa",
+    "textColor": "#111827",
+    "mutedTextColor": "#6b7280",
+    "fontStyle": "editorial",
+    "radius": "rounded",
+    "animation": "fade-up",
+    "heroLayout": "centered",
+    "backgroundPattern": "none",
+    "heroDecoration": "none",
+    "cardStyle": "bordered",
+    "buttonStyle": "solid"
+  },
+  "blocks": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "badge": "",
+      "headline": "Desmascare 10 superstições médicas populares e entenda seu corpo sem jargões técnicos",
+      "subheadline": "O Guia Definitivo de Superstições e Curiosidades Médicas aplica o Método de Verificação Cruzada Simplificada em uma única página. Você separa mito de fato, evita gastos desnecessários e ganha paz de espírito sem precisar de formação técnica.",
+      "ctaText": "Quero Acesso Imediato",
+      "chips": [],
+      "heroImage": "",
+      "animation": "fade-up"
+    },
+    {
+      "id": "problem",
+      "type": "problem",
+      "title": "Por que mitos médicos ainda causam gastos e preocupação?",
+      "description": "Conselhos passados de geração em geração, mensagens em grupos de conversa e buscas soltas na internet transformam crenças em verdades aceitas. Sem um método simples para verificar, muita gente gasta com consultas e tratamentos desnecessários ou ignora sintomas que merecem atenção profissional.",
+      "cards": [
+        {
+          "title": "Gastar com soluções que não funcionam",
+          "description": "Pagar por exames, produtos ou consultas baseados em crenças médicas sem comprovação."
+        },
+        {
+          "title": "Não saber quando procurar um médico",
+          "description": "Hesitar entre ignorar um sintoma por acreditar em um mito ou buscar ajuda por um problema que não existe."
+        },
+        {
+          "title": "Ler conteúdos técnicos demais ou vagos demais",
+          "description": "Encontrar explicações cheias de jargões ou simplificações perigosas, sem um ponto de partida claro para leigos."
+        }
+      ]
+    },
+    {
+      "id": "mechanism",
+      "type": "mechanism",
+      "title": "Método de Verificação Cruzada Simplificada",
+      "description": "Três passos para checar qualquer crença médica popular usando informações acessíveis, sem exigir formação técnica.",
+      "steps": [
+        {
+          "step": "1",
+          "title": "Registre a crença",
+          "text": "Escreva a superstição ou curiosidade médica que você ouviu e quer verificar."
+        },
+        {
+          "step": "2",
+          "title": "Cruze as fontes",
+          "text": "Compare o que é dito popularmente com os fatos apresentados de forma direta neste guia."
+        },
+        {
+          "step": "3",
+          "title": "Decida com segurança",
+          "text": "Use a conclusão para saber quando buscar um médico e quando desconsiderar o conselho popular."
+        }
+      ]
+    },
+    {
+      "id": "items",
+      "type": "items",
+      "title": "O Que Você Terá em Mãos",
+      "items": [
+        {
+          "title": "Guia Definitivo de Superstições e Curiosidades Médicas",
+          "desc": "10 superstições médicas populares verificadas com o Método de Verificação Cruzada Simplificada, em linguagem clara e segura.",
+          "tag": "Incluído"
+        },
+        {
+          "title": "Checklist de Sintomas para Consultas",
+          "desc": "Bônus de R$ 37,00. Liste os principais sintomas para levar nas próximas consultas e otimize seu tempo com o médico.",
+          "tag": "Bônus"
+        },
+        {
+          "title": "Guia de Golpes e Cuidados com Saúde",
+          "desc": "Bônus de R$ 29,00. Saiba identificar sinais de alerta de golpes de saúde online e proteja seu bolso e sua saúde.",
+          "tag": "Bônus"
+        }
+      ]
+    },
+    {
+      "id": "offer",
+      "type": "offer",
+      "regularPrice": "R$ 97,00",
+      "price": "R$ 21,90",
+      "urgency": "",
+      "ctaText": "Garantir Meu Guia por R$ 21,90",
+      "guaranteeText": ""
+    },
+    {
+      "id": "faq",
+      "type": "faq",
+      "title": "Dúvidas Frequentes",
+      "animation": "fade-up",
+      "questions": [],
+      "cards": [
+        {
+          "title": "Como recebo o guia após a compra?",
+          "description": "O PDF é entregue instantaneamente no seu e-mail e pode ser salvo no celular ou computador para ler a qualquer momento."
+        },
+        {
+          "title": "Qual a política de garantia?",
+          "description": "Você tem 7 dias de garantia incondicional. Se não gostar ou achar útil, solicita o reembolso total, sem perguntas."
+        },
+        {
+          "title": "Este guia serve para alguém sem formação em saúde?",
+          "description": "Sim! O conteúdo foi criado especialmente para leigos, com linguagem acessível e linguagem clara, descomplicando o corpo humano para qualquer pessoa."
+        }
+      ]
+    },
+    {
+      "id": "guarantee",
+      "type": "guarantee",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "footer",
+      "type": "footer",
+      "copyright": "Guia Definitivo de Superstições e Curiosidades Médicas",
+      "links": [],
+      "text": ""
+    }
+  ]
+}

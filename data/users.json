@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "admin-user",
+    "name": "Administrador Veltor",
+    "email": "admin@veltor.com",
+    "passwordHash": "admin123",
+    "photoURL": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80",
+    "createdAt": "2026-11-04T03:31:27.571Z"
+  },
+  {
+    "uid": "user-1793763099578-n17v0",
+    "name": "Mateus Dev",
+    "email": "mateus@veltor.com",
+    "passwordHash": "mypassword123",
+    "photoURL": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=120&q=80",
+    "createdAt": "2026-11-04T03:31:39.578Z"
+  }
+]

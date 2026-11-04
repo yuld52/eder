@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "UserProfile": {
+      "title": "Perfil de Usuário",
+      "description": "Dados do usuário autenticado no LowStack",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "email": { "type": "string", "maxLength": 256 },
+        "displayName": { "type": "string", "maxLength": 128 },
+        "photoURL": { "type": "string", "maxLength": 512 },
+        "createdAt": { "type": "string", "maxLength": 64 }
+      },
+      "required": ["id", "email"]
+    },
+    "Offer": {
+      "title": "Oferta LowStack",
+      "description": "Estrutura completa da oferta digital",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "title": { "type": "string", "maxLength": 256 },
+        "niche": { "type": "string", "maxLength": 128 },
+        "status": { "type": "string", "maxLength": 32 },
+        "version": { "type": "number" },
+        "lastModified": { "type": "string", "maxLength": 64 },
+        "promise": { "type": "string", "maxLength": 1024 },
+        "mechanism": { "type": "string", "maxLength": 512 },
+        "userId": { "type": "string", "maxLength": 128 }
+      },
+      "required": ["id", "title", "promise", "mechanism"]
+    },
+    "SalesPage": {
+      "title": "Página de Vendas",
+      "description": "Página de vendas vinculada à oferta",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "offerId": { "type": "string", "maxLength": 128 },
+        "title": { "type": "string", "maxLength": 256 },
+        "slug": { "type": "string", "maxLength": 128 },
+        "published": { "type": "boolean" },
+        "lastUpdated": { "type": "string", "maxLength": 64 },
+        "theme": { "type": "string", "maxLength": 32 },
+        "checkoutUrl": { "type": "string", "maxLength": 512 },
+        "userId": { "type": "string", "maxLength": 128 }
+      },
+      "required": ["id", "offerId", "title"]
+    },
+    "Deliverable": {
+      "title": "Entregável Digital",
+      "description": "Material digital do produto e bônus",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "offerId": { "type": "string", "maxLength": 128 },
+        "title": { "type": "string", "maxLength": 256 },
+        "format": { "type": "string", "maxLength": 32 },
+        "totalPages": { "type": "number" },
+        "lastExported": { "type": "string", "maxLength": 64 },
+        "status": { "type": "string", "maxLength": 32 },
+        "userId": { "type": "string", "maxLength": 128 }
+      },
+      "required": ["id", "offerId", "title"]
+    },
+    "MinedAd": {
+      "title": "Anúncio Minerado",
+      "description": "Referência de anúncio ativo minerado",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "title": { "type": "string", "maxLength": 256 },
+        "advertiser": { "type": "string", "maxLength": 128 },
+        "activeStatus": { "type": "string", "maxLength": 32 },
+        "sourceUrl": { "type": "string", "maxLength": 512 },
+        "niche": { "type": "string", "maxLength": 128 },
+        "copy": { "type": "string", "maxLength": 2048 },
+        "priceEstimate": { "type": "string", "maxLength": 32 },
+        "imageUrl": { "type": "string", "maxLength": 512 },
+        "userId": { "type": "string", "maxLength": 128 }
+      },
+      "required": ["id", "title", "copy"]
+    },
+    "UserCredits": {
+      "title": "Créditos da Conta",
+      "description": "Saldo e histórico de consumo de créditos",
+      "type": "object",
+      "properties": {
+        "balance": { "type": "number" },
+        "userId": { "type": "string", "maxLength": 128 }
+      },
+      "required": ["balance"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": { "$ref": "#/entities/UserProfile" },
+      "description": "Documento de perfil privado do usuário"
+    },
+    "/users/{userId}/offers/{offerId}": {
+      "schema": { "$ref": "#/entities/Offer" },
+      "description": "Ofertas criadas pelo usuário"
+    },
+    "/users/{userId}/pages/{pageId}": {
+      "schema": { "$ref": "#/entities/SalesPage" },
+      "description": "Páginas de vendas do usuário"
+    },
+    "/users/{userId}/deliverables/{deliverableId}": {
+      "schema": { "$ref": "#/entities/Deliverable" },
+      "description": "Entregáveis digitais do usuário"
+    },
+    "/users/{userId}/minedAds/{adId}": {
+      "schema": { "$ref": "#/entities/MinedAd" },
+      "description": "Anúncios minerados na biblioteca do usuário"
+    },
+    "/users/{userId}/credits/account": {
+      "schema": { "$ref": "#/entities/UserCredits" },
+      "description": "Saldo de créditos do usuário"
+    }
+  }
+}

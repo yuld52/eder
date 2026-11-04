@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <defs>
+    <linearGradient id="veltor-grad-primary" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6" />
+      <stop offset="50%" stop-color="#6366F1" />
+      <stop offset="100%" stop-color="#8B5CF6" />
+    </linearGradient>
+    <linearGradient id="veltor-grad-glow" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06B6D4" />
+      <stop offset="100%" stop-color="#3B82F6" />
+    </linearGradient>
+    <linearGradient id="veltor-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#121520" />
+      <stop offset="100%" stop-color="#090A0F" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background container -->
+  <rect width="32" height="32" rx="8" fill="url(#veltor-bg)" stroke="#22273D" stroke-width="1.2" />
+
+  <!-- Stylized Layered 'V' Monogram -->
+  <!-- Left wing / rear layer -->
+  <path d="M7 8 L13 8 L16 19 L13 24 Z" fill="url(#veltor-grad-glow)" opacity="0.9" />
+
+  <!-- Right wing / front layer -->
+  <path d="M25 8 L19 8 L13.5 22 L17 24 Z" fill="url(#veltor-grad-primary)" />
+
+  <!-- Center highlight vertex -->
+  <path d="M12.5 15 L19.5 8 L22 8 L15 23.5 Z" fill="#FFFFFF" opacity="0.25" />
+  
+  <!-- Tiny spark / core node -->
+  <circle cx="16" cy="23.5" r="1.5" fill="#38BDF8" />
+</svg>

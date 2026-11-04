@@ -1,0 +1,120 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Global Safety Net (Default-Deny)
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    // Helper functions
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isSignedIn() && request.auth.uid == userId;
+    }
+
+    function isValidId(id) {
+      return id is string && id.size() > 0 && id.size() <= 128 && id.matches('^[a-zA-Z0-9_\\-]+$');
+    }
+
+    function incoming() {
+      return request.resource.data;
+    }
+
+    function existing() {
+      return resource.data;
+    }
+
+    // Connectivity Test
+    match /test/connection {
+      allow get: if true;
+    }
+
+    // Validation helpers
+    function isValidUserProfile(data) {
+      return data.id is string && data.id.size() <= 128
+        && (!('email' in data) || (data.email is string && data.email.size() <= 256))
+        && (!('displayName' in data) || (data.displayName is string && data.displayName.size() <= 256))
+        && (!('photoURL' in data) || (data.photoURL is string && data.photoURL.size() <= 2048))
+        && (!('createdAt' in data) || (data.createdAt is string && data.createdAt.size() <= 128));
+    }
+
+    function isValidOffer(data) {
+      return data.id is string && data.id.size() <= 128
+        && data.title is string && data.title.size() > 0 && data.title.size() <= 256
+        && data.promise is string && data.promise.size() <= 1024
+        && data.mechanism is string && data.mechanism.size() <= 512;
+    }
+
+    function isValidSalesPage(data) {
+      return data.id is string && data.id.size() <= 128
+        && data.offerId is string && data.offerId.size() <= 128
+        && data.title is string && data.title.size() <= 256;
+    }
+
+    function isValidDeliverable(data) {
+      return data.id is string && data.id.size() <= 128
+        && data.offerId is string && data.offerId.size() <= 128
+        && data.title is string && data.title.size() <= 256;
+    }
+
+    function isValidMinedAd(data) {
+      return data.id is string && data.id.size() <= 128
+        && data.title is string && data.title.size() <= 256;
+    }
+
+    function isValidCredits(data) {
+      return data.balance is number;
+    }
+
+    // User Profile Document
+    match /users/{userId} {
+      allow get: if isOwner(userId);
+      allow create: if isOwner(userId) && isValidUserProfile(incoming());
+      allow update: if isOwner(userId) && isValidUserProfile(incoming());
+      allow delete: if isOwner(userId);
+
+      // Offers Subcollection
+      match /offers/{offerId} {
+        allow get, list: if isOwner(userId);
+        allow create: if isOwner(userId) && isValidId(offerId) && isValidOffer(incoming());
+        allow update: if isOwner(userId) && isValidId(offerId) && isValidOffer(incoming());
+        allow delete: if isOwner(userId) && isValidId(offerId);
+      }
+
+      // Sales Pages Subcollection
+      match /pages/{pageId} {
+        allow get, list: if isOwner(userId);
+        allow create: if isOwner(userId) && isValidId(pageId) && isValidSalesPage(incoming());
+        allow update: if isOwner(userId) && isValidId(pageId) && isValidSalesPage(incoming());
+        allow delete: if isOwner(userId) && isValidId(pageId);
+      }
+
+      // Deliverables Subcollection
+      match /deliverables/{deliverableId} {
+        allow get, list: if isOwner(userId);
+        allow create: if isOwner(userId) && isValidId(deliverableId) && isValidDeliverable(incoming());
+        allow update: if isOwner(userId) && isValidId(deliverableId) && isValidDeliverable(incoming());
+        allow delete: if isOwner(userId) && isValidId(deliverableId);
+      }
+
+      // Mined Ads Subcollection
+      match /minedAds/{adId} {
+        allow get, list: if isOwner(userId);
+        allow create: if isOwner(userId) && isValidId(adId) && isValidMinedAd(incoming());
+        allow update: if isOwner(userId) && isValidId(adId) && isValidMinedAd(incoming());
+        allow delete: if isOwner(userId) && isValidId(adId);
+      }
+
+      // Credits Account Document
+      match /credits/{creditDocId} {
+        allow get: if isOwner(userId);
+        allow create, update: if isOwner(userId) && isValidCredits(incoming());
+        allow delete: if isOwner(userId);
+      }
+    }
+  }
+}

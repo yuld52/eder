@@ -1,0 +1,2276 @@
+{
+  "funnel": {
+    "ideiasAguardando": 0,
+    "aprovadas": 0,
+    "emProducao": 0,
+    "emTeste": 0,
+    "escalando": 0
+  },
+  "offers": [
+    {
+      "id": "offer-1793732041247",
+      "title": "Kit Grafismo Fonético: Alfabetização em 10 Minutos por Dia",
+      "niche": "Educação Infantil / Alfabetização",
+      "status": "Aprovada",
+      "businessType": "B2C",
+      "targetMarket": "Brasil • Português, R$",
+      "version": 1,
+      "lastModified": "2026-11-03T18:54:01.258Z",
+      "briefing": {
+        "productName": "Kit Grafismo Fonético: Alfabetização em 10 Minutos por Dia",
+        "productType": "Pack de modelos/templates",
+        "targetAudience": "Pais, mães, responsáveis e educadores de crianças entre 2 e 12 anos que estão iniciando a alfabetização ou apresentam dificuldades de leitura, compreensão e foco. São pessoas que desejam apoiar o desenvolvimento dos filhos em casa, respeitando o ritmo individual da criança, e buscam um método simples, lúdico e sem pressão para evitar frustração, baixa autoestima e sofrimento nas tarefas escolares.",
+        "coreProblem": "A leitura se tornou um sofrimento diário, com notas baixas, falta de interesse por livros e a criança acreditando que não é capaz de aprender.",
+        "price": "R$ 21",
+        "regularPrice": "R$ 67,90",
+        "niche": "Educação Infantil / Alfabetização"
+      },
+      "promise": "Apoie o reconhecimento de letras e sílabas do seu filho com apenas 10 minutos de prática diária, usando modelos prontos para imprimir e seguir no ritmo da criança.",
+      "mechanism": "Método Grafismo Fonético",
+      "avatar": {
+        "ageRange": "25-50",
+        "incomeProfile": "Classe B/C",
+        "behavior": "Pesquisa soluções educacionais online, consome conteúdo de parentalidade e ensino em casa, valoriza materiais prontos para imprimir e aplicar imediatamente, prefere métodos que respeitem o limite de atenção da criança e evite comparações com colegas.",
+        "purchaseTrigger": "Ver a criança chorar ou se sentir 'menos inteligente' na hora da lição de leitura e querer mudar essa situação rapidamente com uma ferramenta acessível.",
+        "mainPain": "A leitura se tornou um sofrimento diário, com notas baixas, falta de interesse por livros e a criança acreditando que não é capaz de aprender.",
+        "mainDesire": "Ver o filho lendo com fluência, confiança e prazer, sem pressão, no tempo dele, e recuperar a tranquilidade nas tarefas de casa."
+      },
+      "kitComposition": {
+        "format": "Pack de modelos/templates",
+        "referenceUrl": "https://educacaokids.com.br/grafismofonetico",
+        "items": [
+          "Mais de 130 atividades de grafismo fonético em PDF para impressão",
+          "Atividades divididas em níveis: palavras de 2, 3 e 4 sílabas e frases curtas",
+          "Atividades de grafismo na letra bastão para coordenação motora fina",
+          "Guia passo a passo com ilustrações para cada fase do aprendizado",
+          "Bônus: Caderno Alfabeto com Imagem para familiarização visual das letras",
+          "Bônus: Caderno Quebra-Cabeça Alfabeto para fixação lúdica"
+        ]
+      },
+      "priceGuarantee": {
+        "frontendPrice": "21",
+        "justification": "Preço de entrada sugerido como tripwire de baixo atrito para atrair volume máximo de compradores e apresentar o método antes de ofertas complementares."
+      },
+      "orderBumpsList": [
+        {
+          "id": "ob-1",
+          "title": "Caderno de Traçado Pré-Fonético — aquecimento de coordenação motora antes das atividades principais",
+          "price": 7.9,
+          "takeRate": 35,
+          "impact": 2.77
+        }
+      ],
+      "upsellsList": [
+        {
+          "id": "up-1",
+          "title": "Upgrade para a Versão Completa Premium (+ dobro de conteúdo)",
+          "description": "Receba o acervo completo de atividades e materiais extras exclusivos com desconto especial.",
+          "price": 27.9,
+          "takeRate": 40,
+          "impact": 11.16
+        }
+      ],
+      "copyOverview": {
+        "headline": "Alfabetize seu filho com apenas 10 minutos por dia, sem pressão e no ritmo dele",
+        "subheadline": "Se as tarefas de leitura viraram sofrimento e seu filho começa a achar que não é capaz, descubra como o Grafismo Fonético desperta a leitura de forma leve, divertida e eficaz, direto de casa.",
+        "ctaText": "Quero meu filho lendo rápido — R$ 21,00 com garantia de 7 dias",
+        "benefits": [
+          "Reconhece sílabas e sons com mais facilidade",
+          "Ganha confiança para tentar ler palavras novas",
+          "Mostra mais interesse por livros e histórias",
+          "Aprende no próprio ritmo, sem frustração ou comparação",
+          "Começa a gostar do momento de leitura em casa"
+        ],
+        "painAgitation": "Muitos pais acreditam que cada criança tem seu tempo para ler, até que as tarefas se tornam um sofrimento, as notas caem e a criança se sente menos inteligente que os coleguinhas, chorando na hora da lição e perdendo a confiança em si mesma.",
+        "solutionPresentation": "O Kit de Grafismo Fonético foi criado para desenvolver a coordenação motora fina, estimular a atenção e fortalecer as conexões cerebrais que facilitam a leitura, transformando o traçado de linhas e padrões fonéticos em um processo leve, divertido e sem pressão.",
+        "socialProofNote": "Exiba depoimentos reais de pais e educadores que já utilizaram o kit, como os comentários visíveis no plugin social da página original.",
+        "sampleTestimonials": [
+          {
+            "author": "André Azevedo",
+            "text": "meus pequenos estão conseguindo ter uma evolução siguinificativa graças ao Grafismo Fonético."
+          },
+          {
+            "author": "Ana Oliveira",
+            "text": "Minha filha começou a formar palavras com apenas duas semanas usando o kit."
+          },
+          {
+            "author": "Marisa Correia",
+            "text": "Acreditem em mim, essa é a melhor compra que vocês vão fazer este ano."
+          },
+          {
+            "author": "Camila Silva",
+            "text": "É incrível como algo tão simples pode fazer tanta diferença!"
+          },
+          {
+            "author": "Breno Souza",
+            "text": "O método é simples de seguir, mesmo para nós que somos pais sem experiência em ensino."
+          }
+        ]
+      },
+      "benefits": [
+        "Imprima os modelos e comece a praticar com a criança em menos de 5 minutos",
+        "Reduza o sofrimento diário com leitura ao substituir a pressão por atividades curtas e lúdicas",
+        "Economize com materiais prontos para usar em casa, sem depender de aulas particulares ou livros caros",
+        "Elimine a crença de que a criança não é capaz de aprender ao respeitar o ritmo individual de cada etapa"
+      ],
+      "bonuses": [
+        {
+          "title": "Caderno de Atividades Complementares para Imprimir",
+          "value": "R$ 37,00 (sugestão)",
+          "description": "Fichas extras de grafismo para reforçar a associação entre som e letra entre as sessões principais."
+        },
+        {
+          "title": "Rastreio de Evolução da Alfabetização",
+          "value": "R$ 29,00 (sugestão)",
+          "description": "Planilha simples para registrar o progresso da criança e identificar quais letras precisam de mais atenção."
+        }
+      ],
+      "orderBump": {
+        "active": true,
+        "title": "Pacote de Jogos de Letras para Imprimir",
+        "price": "R$ 17,90 (sugestão)",
+        "description": "Atividades lúdicas para reforçar o aprendizado do kit principal em poucos minutos."
+      },
+      "upsell": {
+        "active": true,
+        "title": "Curso Prático de Apoio à Alfabetização para Pais e Educadores",
+        "price": "R$ 67,00 (sugestão)",
+        "description": "Aulas curtas e orientações passo a passo para ampliar o suporte além dos modelos de grafismo."
+      },
+      "faqs": [
+        {
+          "question": "Em que formato recebo o kit e como acesso após a compra?",
+          "answer": "O kit é um pack de modelos digitais para download e impressão. Após a confirmação da compra, você recebe o acesso por e-mail e pode baixar os arquivos imediatamente."
+        },
+        {
+          "question": "Qual é a garantia e como funciona o suporte?",
+          "answer": "O suporte é feito por e-mail para dúvidas sobre acesso e uso dos arquivos. Os termos de garantia seguem as regras da plataforma de venda; entre em contato para saber os prazos e condições aplicáveis."
+        },
+        {
+          "question": "Serve para quem nunca ensinou uma criança a ler?",
+          "answer": "Sim. Os modelos são prontos para usar e não exigem experiência prévia em alfabetização; basta seguir as instruções de cada atividade com a criança."
+        }
+      ],
+      "pageDesign": {
+        "visualConcept": "Interface acolhedora inspirada em cadernos de atividades infantis, com textura sutil de papel, ilustrações abstratas de traços e círculos que remetem ao grafismo, e elementos flutuantes suaves que transmitem leveza e aprendizado sem pressão.",
+        "theme": "warm-cream",
+        "accentColor": "#F97316",
+        "backgroundColor": "#FFFDF7",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1F2937",
+        "mutedTextColor": "#6B7280",
+        "fontStyle": "soft",
+        "radius": "rounded",
+        "heroLayout": "split",
+        "backgroundPattern": "soft-glow",
+        "heroDecoration": "blobs",
+        "cardStyle": "elevated",
+        "buttonStyle": "gradient",
+        "animation": "fade-up"
+      },
+      "pageTheme": "warm-cream"
+    },
+    {
+      "title": "Guia Definitivo de Superstições e Curiosidades Médicas",
+      "promise": "Em apenas 1 página, descubra a verdade por trás de 10 superstições médicas populares e tire dúvidas sobre seu corpo sem precisar de formação técnica.",
+      "mechanism": "Método de Verificação Cruzada Simplificada",
+      "benefits": [
+        "Desmistifique rapidamente 10 mitos médicos sem sair de casa ao ler fatos comprovados e fáceis de entender",
+        "Evite gastos desnecessários com consultas ou tratamentos baseados em informações falsas ou antigas",
+        "Ganhe tempo ao saber distinguir rapidamente o que é mito do que é fato, direto ao ponto",
+        "Tenha paz de espírito ao entender seu corpo com linguagem clara e segura, sem jargões complicados"
+      ],
+      "bonuses": [
+        {
+          "title": "Checklist de Sintomas para Consultas",
+          "value": "R$ 37,00",
+          "description": "Liste os principais sintomas para levar nas próximas consultas e otimize seu tempo com o médico"
+        },
+        {
+          "title": "Guia de Golpes e Cuidados com Saúde",
+          "value": "R$ 29,00",
+          "description": "Saiba identificar sinais de alerta de golpes de saúde online e proteja seu bolso e sua saúde"
+        }
+      ],
+      "orderBump": {
+        "active": true,
+        "title": "E-book Exclusivo: Mitos da Nutrição Desvendados",
+        "price": "R$ 14,90 a R$ 19,90",
+        "description": "Marque na caixa para receber mais 20 páginas sobre verdades e mitos alimentares"
+      },
+      "upsell": {
+        "active": true,
+        "title": "Academia de Curiosidades Médicas",
+        "price": "R$ 47,00 a R$ 97,00",
+        "description": "Acesso ao próximo passo para quem quer aprofundar conhecimento sobre o corpo humano de forma leve e contínua"
+      },
+      "faqs": [
+        {
+          "question": "Como recebo o guia após a compra?",
+          "answer": "O PDF é entregue instantaneamente no seu e-mail e pode ser salvo no celular ou computador para ler a qualquer momento."
+        },
+        {
+          "question": "Qual a política de garantia?",
+          "answer": "Você tem 7 dias de garantia incondicional. Se não gostar ou achar útil, solicita o reembolso total, sem perguntas."
+        },
+        {
+          "question": "Este guia serve para alguém sem formação em saúde?",
+          "answer": "Sim! O conteúdo foi criado especialmente para leigos, com linguagem acessível e linguagem clara, descomplicando o corpo humano para qualquer pessoa."
+        }
+      ],
+      "id": "offer-1793000809358",
+      "niche": "Saúde e Curiosidades",
+      "status": "Rascunho",
+      "version": 1,
+      "lastModified": "2026-10-26T07:48:17.905Z",
+      "targetMarket": "Brasil • Português, R$",
+      "briefing": {
+        "productName": "Guia Definitivo de Superstições e Curiosidades Médicas",
+        "productType": "PDF de 1 página",
+        "targetAudience": "Homens e mulheres, entre 25 e 50 anos, das classes B e C, que possuem interesse geral por saúde e bem-estar, mas não necessariamente formação técnica. São pessoas que gostam de ler fatos interessantes em redes sociais, compartilham conteúdos virais e valorizam informações práticas e entretenimento, buscando desmistificar o corpo humano de forma acessível e segura.",
+        "coreProblem": "Sensações de estar mal informado sobre o próprio corpo ou cair em mitos populares sem fonte confiável, sentindo falta de conteúdo leve e entretenido sobre saúde.",
+        "price": "R$ 21,90",
+        "regularPrice": "",
+        "niche": "Saúde e Curiosidades"
+      },
+      "copyOverview": {
+        "headline": "Os Segredos que o Seu Corpo Esconde dos Mitos",
+        "subheadline": "1 página de curiosidades médicas para curiosos que querem sair do óbvio e surpreender a todos.",
+        "ctaText": "Comprar por R$ 21,90",
+        "benefits": [
+          "Desvende as origens das principais superstições médicas",
+          "Curiosidades incríveis sobre o funcionamento do corpo humano",
+          "Conteúdo leve e entretenimento garantido",
+          "Material perfeito para compartilhar no Dia do Médico",
+          "Acesso instantâneo após a compra"
+        ],
+        "painAgitation": "Já se pegou acreditando em lendas sobre saúde sem saber a verdade? Sente que falta um conteúdo leve e confiável para matar a curiosidade sobre o corpo humano?",
+        "solutionPresentation": "Nosso guia de 1 página reúne as curiosidades mais surpreendentes e desmistifica superstições populares com linguagem acessível e fatos reais, transformando seu conhecimento sobre o corpo humano em minutos.",
+        "socialProofNote": "Nenhum depoimento foi fornecido nos dados originais. Caso deseje adicionar, solicite a coleta de feedback de compradores iniciais.",
+        "sampleTestimonials": []
+      }
+    }
+  ],
+  "pages": [
+    {
+      "id": "page-offer-1793732041247",
+      "offerId": "offer-1793732041247",
+      "offerTitle": "Kit Grafismo Fonético: Alfabetização em 10 Minutos por Dia",
+      "title": "Página de Vendas - Kit Grafismo Fonético: Alfabetização em 10 Minutos por Dia",
+      "slug": "offer-1793732041247",
+      "published": true,
+      "lastUpdated": "2026-11-03T18:54:01.264Z",
+      "theme": "warm-cream",
+      "design": {
+        "visualConcept": "Interface acolhedora inspirada em cadernos de atividades infantis, com textura sutil de papel, ilustrações abstratas de traços e círculos que remetem ao grafismo, e elementos flutuantes suaves que transmitem leveza e aprendizado sem pressão.",
+        "theme": "warm-cream",
+        "accentColor": "#F97316",
+        "backgroundColor": "#FFFDF7",
+        "surfaceColor": "#FFFFFF",
+        "textColor": "#1F2937",
+        "mutedTextColor": "#6B7280",
+        "fontStyle": "soft",
+        "radius": "rounded",
+        "heroLayout": "split",
+        "backgroundPattern": "soft-glow",
+        "heroDecoration": "blobs",
+        "cardStyle": "elevated",
+        "buttonStyle": "gradient",
+        "animation": "fade-up"
+      },
+      "checkoutUrl": "https://pay.kiwify.com.br/checkout",
+      "blocks": [
+        {
+          "id": "hero",
+          "type": "hero",
+          "badge": "Lançamento 2026",
+          "headline": "Alfabetize seu filho com apenas 10 minutos por dia, sem pressão e no ritmo dele",
+          "subheadline": "Se as tarefas de leitura viraram sofrimento e seu filho começa a achar que não é capaz, descubra como o Grafismo Fonético desperta a leitura de forma leve, divertida e eficaz, direto de casa.",
+          "ctaText": "Quero meu filho lendo rápido — R$ 21,00 com garantia de 7 dias",
+          "chips": [
+            "Acesso Vitalício",
+            "Entrega Imediata",
+            "Garantia Blindada de 7 Dias"
+          ],
+          "heroImage": "https://images.unsplash.com/photo-1541544741938-0af808871cc0?auto=format&fit=crop&w=1200&q=80",
+          "animation": "fade-up"
+        },
+        {
+          "id": "problem",
+          "type": "problem",
+          "title": "Por que a maioria das pessoas continua travada?",
+          "description": "Muitos pais acreditam que cada criança tem seu tempo para ler, até que as tarefas se tornam um sofrimento, as notas caem e a criança se sente menos inteligente que os coleguinhas, chorando na hora da lição e perdendo a confiança em si mesma.",
+          "cards": [
+            {
+              "title": "Falta de Roteiro Claro",
+              "description": "A leitura se tornou um sofrimento diário, com notas baixas, falta de interesse por livros e a criança acreditando que não é capaz de aprender."
+            },
+            {
+              "title": "Perda de Horas Preciosas",
+              "description": "Gastando tempo na tentativa e erro em vez de usar modelos validados e diretos ao ponto."
+            },
+            {
+              "title": "Insegurança nos Resultados",
+              "description": "Frustração por não saber se está no caminho certo ou se o método realmente funciona."
+            }
+          ]
+        },
+        {
+          "id": "mechanism",
+          "type": "mechanism",
+          "title": "Como o Método Transforma Seus Resultados",
+          "description": "O Kit de Grafismo Fonético foi criado para desenvolver a coordenação motora fina, estimular a atenção e fortalecer as conexões cerebrais que facilitam a leitura, transformando o traçado de linhas e padrões fonéticos em um processo leve, divertido e sem pressão.",
+          "steps": [
+            {
+              "step": "1",
+              "title": "Acesso Instantâneo",
+              "text": "Receba todo o material digital organizado e pronto para usar no seu dispositivo."
+            },
+            {
+              "step": "2",
+              "title": "Aplicação Passo a Passo",
+              "text": "Siga os modelos, checklists e roteiros desenhados para execução rápida."
+            },
+            {
+              "step": "3",
+              "title": "Resultados Visíveis",
+              "text": "Alcance seus objetivos com tranquilidade e sem sobrecarga de trabalho."
+            }
+          ]
+        },
+        {
+          "id": "items",
+          "type": "items",
+          "title": "O Que Você Terá em Mãos:",
+          "items": [
+            {
+              "title": "Item 1: Imprima os modelos e comece a praticar com a criança em menos de 5 minutos",
+              "desc": "Material 100% digital em alta definição pronto para aplicar imediatamente.",
+              "tag": "Incluso no Pacote",
+              "image": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=600&q=80"
+            },
+            {
+              "title": "Item 2: Reduza o sofrimento diário com leitura ao substituir a pressão por atividades curtas e lúdicas",
+              "desc": "Material 100% digital em alta definição pronto para aplicar imediatamente.",
+              "tag": "Incluso no Pacote",
+              "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=600&q=80"
+            },
+            {
+              "title": "Item 3: Economize com materiais prontos para usar em casa, sem depender de aulas particulares ou livros caros",
+              "desc": "Material 100% digital em alta definição pronto para aplicar imediatamente.",
+              "tag": "Incluso no Pacote",
+              "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=600&q=80"
+            },
+            {
+              "title": "Item 4: Elimine a crença de que a criança não é capaz de aprender ao respeitar o ritmo individual de cada etapa",
+              "desc": "Material 100% digital em alta definição pronto para aplicar imediatamente.",
+              "tag": "Incluso no Pacote",
+              "image": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=600&q=80"
+            }
+          ]
+        },
+        {
+          "id": "offer",
+          "type": "offer",
+          "title": "Condição Especial de Lançamento",
+          "regularPrice": "R$ 67,90",
+          "price": "R$ 21",
+          "urgency": "Oferta exclusiva com valor promocional por tempo limitado",
+          "ctaText": "Quero meu filho lendo rápido — R$ 21,00 com garantia de 7 dias",
+          "guaranteeText": "7 Dias de Garantia Incondicional: Se não amar, devolvemos 100% do seu dinheiro."
+        },
+        {
+          "id": "faq",
+          "type": "faq",
+          "title": "Perguntas Frequentes",
+          "cards": [
+            {
+              "title": "Em que formato recebo o kit e como acesso após a compra?",
+              "description": "O kit é um pack de modelos digitais para download e impressão. Após a confirmação da compra, você recebe o acesso por e-mail e pode baixar os arquivos imediatamente."
+            },
+            {
+              "title": "Qual é a garantia e como funciona o suporte?",
+              "description": "O suporte é feito por e-mail para dúvidas sobre acesso e uso dos arquivos. Os termos de garantia seguem as regras da plataforma de venda; entre em contato para saber os prazos e condições aplicáveis."
+            },
+            {
+              "title": "Serve para quem nunca ensinou uma criança a ler?",
+              "description": "Sim. Os modelos são prontos para usar e não exigem experiência prévia em alfabetização; basta seguir as instruções de cada atividade com a criança."
+            }
+          ]
+        },
+        {
+          "id": "guarantee",
+          "type": "guarantee",
+          "guaranteeText": "Você tem 7 dias de garantia incondicional para acessar, testar e aprovar. Risco absolutamente zero."
+        },
+        {
+          "id": "footer",
+          "type": "footer",
+          "description": "Kit Grafismo Fonético: Alfabetização em 10 Minutos por Dia · Página Oficial de Vendas · Todos os direitos reservados"
+        }
+      ]
+    },
+    {
+      "id": "page-1793159046596",
+      "offerId": "standalone",
+      "title": "Página de Vendas - alfetizaccao",
+      "slug": "alfetizaccao",
+      "published": true,
+      "lastUpdated": "2026-10-28T03:44:06.611Z",
+      "theme": "clean-white",
+      "design": {
+        "visualConcept": "Editorial limpo com foco em leitura rápida e conversão direta para produto digital",
+        "accentColor": "#16a34a",
+        "backgroundColor": "#fafafa",
+        "surfaceColor": "#ffffff",
+        "textColor": "#111827",
+        "mutedTextColor": "#6b7280",
+        "fontStyle": "modern",
+        "radius": "rounded",
+        "animation": "fade-up",
+        "heroLayout": "centered",
+        "backgroundPattern": "none",
+        "heroDecoration": "none",
+        "cardStyle": "bordered",
+        "buttonStyle": "solid"
+      },
+      "checkoutUrl": "https://pay.kiwify.com.br/checkout",
+      "blocks": [
+        {
+          "id": "hero",
+          "type": "hero",
+          "badge": "Acesso Imediato",
+          "headline": "Alfetizaccao: resultados comprovados em menos tempo e sem complicações",
+          "subheadline": "Método Passo a Passo de Execução Imediata. Material 100% digital, organizado para aplicação em minutos, com garantia incondicional de 7 dias.",
+          "ctaText": "Quero Acesso Imediato",
+          "chips": [],
+          "heroImage": "",
+          "animation": "fade-up"
+        },
+        {
+          "id": "problem",
+          "type": "problem",
+          "title": "Por que a maioria adia ou desiste?",
+          "description": "Sem um caminho claro, a informação se acumula e a aplicação nunca acontece. O resultado é frustração, tempo perdido e nenhum avanço concreto.",
+          "cards": [
+            {
+              "title": "Sobrecarga de informação",
+              "description": "Muito conteúdo e pouco direcionamento. Você não sabe por onde começar."
+            },
+            {
+              "title": "Falta de organização",
+              "description": "Materiais espalhados dificultam a aplicação imediata."
+            },
+            {
+              "title": "Tempo insuficiente",
+              "description": "Métodos longos e complexos que não cabem na rotina."
+            }
+          ]
+        },
+        {
+          "id": "mechanism",
+          "type": "mechanism",
+          "title": "Método Passo a Passo de Execução Imediata",
+          "description": "O alfetizaccao entrega um caminho estruturado para você aplicar o conteúdo agora, sem etapas descomplicadas ou enrolação.",
+          "steps": [
+            {
+              "step": "1",
+              "title": "Acesso",
+              "text": "Baixe o material digital imediatamente após a confirmação da compra."
+            },
+            {
+              "step": "2",
+              "title": "Organização",
+              "text": "Siga o conteúdo dividido por tópicos prontos para aplicação."
+            },
+            {
+              "step": "3",
+              "title": "Execução",
+              "text": "Coloque em prática em minutos e acompanhe os resultados."
+            }
+          ]
+        },
+        {
+          "id": "items",
+          "type": "items",
+          "title": "O Que Está Incluído",
+          "items": [
+            {
+              "title": "Material 100% digital",
+              "desc": "Acesso imediato após a confirmação da compra.",
+              "tag": "Incluído"
+            },
+            {
+              "title": "Organização para aplicação em minutos",
+              "desc": "Conteúdo estruturado para você começar sem perder tempo.",
+              "tag": "Incluído"
+            },
+            {
+              "title": "Garantia incondicional de 7 dias",
+              "desc": "Devolução total do valor, sem perguntas.",
+              "tag": "Incluído"
+            }
+          ]
+        },
+        {
+          "id": "offer",
+          "type": "offer",
+          "regularPrice": "R$ 97,00",
+          "price": "R$ 27,90",
+          "urgency": "",
+          "ctaText": "Garantir Meu Acesso por R$ 27,90",
+          "guaranteeText": "Garantia incondicional de 7 dias com devolução total"
+        },
+        {
+          "id": "faq",
+          "type": "faq",
+          "title": "Dúvidas Frequentes",
+          "animation": "fade-up",
+          "questions": [
+            {
+              "q": "O acesso é realmente imediato?",
+              "a": "Sim. O material é 100% digital e fica disponível logo após a confirmação da compra."
+            },
+            {
+              "q": "Como funciona a garantia de 7 dias?",
+              "a": "Você tem 7 dias para solicitar a devolução total do valor, sem burocracia."
+            },
+            {
+              "q": "Preciso instalar algo para usar?",
+              "a": "Não. O conteúdo é digital e organizado para aplicação direta."
+            }
+          ],
+          "cards": []
+        },
+        {
+          "id": "guarantee",
+          "type": "guarantee",
+          "title": "Risco Zero",
+          "description": "Garantia incondicional de 7 dias com devolução total. Se não estiver satisfeito, é só solicitar o reembolso.",
+          "animation": "fade-up"
+        },
+        {
+          "id": "footer",
+          "type": "footer",
+          "copyright": "Alfetizaccao. Todos os direitos reservados.",
+          "links": [],
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "page-offer-1793000809358",
+      "offerId": "offer-1793000809358",
+      "offerTitle": "Guia Definitivo de Superstições e Curiosidades Médicas",
+      "title": "Página de Vendas - Guia Definitivo de Superstições e Curiosidades Médicas",
+      "slug": "offer-1793000809358",
+      "published": true,
+      "lastUpdated": "2026-10-28T05:41:55.765Z",
+      "theme": "midnight-dark",
+      "checkoutUrl": "https://pay.kiwify.com.br/checkout",
+      "orderBumpActive": null,
+      "exitPopupActive": null,
+      "blocks": [
+        {
+          "id": "hero",
+          "type": "hero",
+          "badge": "",
+          "headline": "10 superstições médicas populares, verificadas em uma página",
+          "subheadline": "Use o Método de Verificação Cruzada Simplificada para separar mito de fato sem precisar de formação técnica. Leia, entenda e evite gastos com informações falsas ou antigas.",
+          "ctaText": "Quero ler o guia agora",
+          "chips": [],
+          "heroImage": "",
+          "animation": "slide-in"
+        },
+        {
+          "id": "problem",
+          "type": "problem",
+          "title": "Por que esses mitos ainda custam caro?",
+          "description": "Muitas pessoas seguem conselhos de saúde baseados em crenças antigas, perdem tempo com tratamentos ineficazes e têm dificuldade de conversar com o médico por não saber distinguir o que é verdade do que é exagero.",
+          "cards": [
+            {
+              "title": "Gastos desnecessários",
+              "description": "Comprar produtos ou marcar consultas por causa de informações que não têm comprovação."
+            },
+            {
+              "title": "Confusão com o corpo",
+              "description": "Ler versões contraditórias sobre a mesma superstição médica e não saber em quem confiar."
+            },
+            {
+              "title": "Linguagem técnica",
+              "description": "Conteúdo de saúde escrito com jargões que afastam quem só quer uma resposta clara e segura."
+            }
+          ]
+        },
+        {
+          "id": "mechanism",
+          "type": "mechanism",
+          "title": "Método de Verificação Cruzada Simplificada",
+          "description": "Três etapas para checar qualquer crença médica popular com base em fatos acessíveis, sem necessidade de formação na área.",
+          "steps": [
+            {
+              "step": "1",
+              "title": "Escolha a crença",
+              "text": "Selecione uma das 10 superstições abordadas no guia e leia a afirmação popular exatamente como é divulgada."
+            },
+            {
+              "step": "2",
+              "title": "Compare com os fatos",
+              "text": "Confronte a crença com informações comprovadas e apresentadas em linguagem direta, sem jargões médicos."
+            },
+            {
+              "step": "3",
+              "title": "Tome uma decisão",
+              "text": "Saiba se o assunto exige atenção médica ou pode ser deixado de lado, com mais tranquilidade para conversar com um profissional."
+            }
+          ]
+        },
+        {
+          "id": "items",
+          "type": "items",
+          "title": "O Que Você Terá em Mãos",
+          "items": [
+            {
+              "title": "Guia Definitivo de Superstições e Curiosidades Médicas",
+              "desc": "10 mitos médicos populares verificados com fatos comprovados, escritos para leigos e direto ao ponto.",
+              "tag": "Incluído"
+            },
+            {
+              "title": "Checklist de Sintomas para Consultas",
+              "desc": "Liste os principais sintomas para levar nas próximas consultas e otimize seu tempo com o médico.",
+              "tag": "Bônus"
+            },
+            {
+              "title": "Guia de Golpes e Cuidados com Saúde",
+              "desc": "Saiba identificar sinais de alerta de golpes de saúde online e proteja seu bolso e sua saúde.",
+              "tag": "Bônus"
+            }
+          ]
+        },
+        {
+          "id": "offer",
+          "type": "offer",
+          "regularPrice": "R$ 97,00",
+          "price": "R$ 21,90",
+          "urgency": "",
+          "ctaText": "Garantir Meu Acesso por R$ 21,90",
+          "guaranteeText": ""
+        },
+        {
+          "id": "faq",
+          "type": "faq",
+          "title": "Dúvidas Frequentes",
+          "cards": [
+            {
+              "title": "Como recebo o guia após a compra?",
+              "description": "O PDF é entregue instantaneamente no seu e-mail e pode ser salvo no celular ou computador para ler a qualquer momento."
+            },
+            {
+              "title": "Qual a política de garantia?",
+              "description": "Você tem 7 dias de garantia incondicional. Se não gostar ou achar útil, solicita o reembolso total, sem perguntas."
+            },
+            {
+              "title": "Este guia serve para alguém sem formação em saúde?",
+              "description": "Sim! O conteúdo foi criado especialmente para leigos, com linguagem acessível e linguagem clara, descomplicando o corpo humano para qualquer pessoa."
+            }
+          ],
+          "animation": "slide-in"
+        },
+        {
+          "id": "guarantee",
+          "type": "guarantee",
+          "guaranteeText": "Confira as condições, o formato de entrega e o suporte disponíveis no checkout."
+        },
+        {
+          "id": "footer",
+          "type": "footer",
+          "description": "Guia Definitivo de Superstições e Curiosidades Médicas · Página oficial"
+        }
+      ],
+      "design": {
+        "visualConcept": "Estética luxuosa e sofisticada em preto absoluto com acentos dourados metálicos",
+        "accentColor": "#f59e0b",
+        "backgroundColor": "#0a0a0c",
+        "surfaceColor": "#16161b",
+        "textColor": "#ffffff",
+        "mutedTextColor": "#d4d4d8",
+        "fontStyle": "editorial",
+        "radius": "rounded",
+        "animation": "fade-up",
+        "heroLayout": "centered",
+        "backgroundPattern": "soft-glow",
+        "heroDecoration": "stars",
+        "cardStyle": "elevated",
+        "buttonStyle": "gradient"
+      }
+    }
+  ],
+  "creatives": [],
+  "deliverables": [
+    {
+      "id": "del-offer-1793732041247",
+      "offerId": "offer-1793732041247",
+      "offerTitle": "Kit Grafismo Fonético: Alfabetização em 10 Minutos por Dia",
+      "title": "Kit Grafismo Fonético: Alfabetização em 10 Minutos por Dia - Acervo Digital",
+      "format": "PDF",
+      "totalPages": 16,
+      "status": "ready",
+      "chapters": [
+        {
+          "id": "cap-1",
+          "title": "Manual de Aplicação & Visão Geral",
+          "content": "Guia de execução para Kit Grafismo Fonético: Alfabetização em 10 Minutos por Dia. Siga o passo a passo para aplicar o Método Grafismo Fonético."
+        },
+        {
+          "id": "cap-2",
+          "title": "Passo a Passo de Execução",
+          "content": "Roteiro prático para colocar o material em uso imediatamente sem complicações."
+        },
+        {
+          "id": "cap-3",
+          "title": "Modelos e Recursos Prontos",
+          "content": "Acervo de templates, modelos e materiais complementares prontos para imprimir e utilizar."
+        },
+        {
+          "id": "cap-4",
+          "title": "Bônus e Material Complementar",
+          "content": "Conteúdo extra e checklists de implementação acelerada."
+        }
+      ],
+      "pieces": [
+        {
+          "id": "piece-offer-1793732041247-main",
+          "category": "main",
+          "title": "Kit Grafismo Fonético: Alfabetização em 10 Minutos por Dia (Material Principal)",
+          "badge": "Principal",
+          "pagesCount": 8,
+          "status": "ready",
+          "pages": [
+            {
+              "pageNumber": 1,
+              "title": "Kit Grafismo Fonético: Alfabetização em 10 Minutos por Dia",
+              "subtitle": "Apoie o reconhecimento de letras e sílabas do seu filho com apenas 10 minutos de prática diária, usando modelos prontos para imprimir e seguir no ritmo da criança.",
+              "content": "Bem-vindo ao Kit Grafismo Fonético: Alfabetização em 10 Minutos por Dia. Este material foi preparado para acelerar seus resultados usando o Método Grafismo Fonético."
+            },
+            {
+              "pageNumber": 2,
+              "title": "Instruções Rápidas de Uso",
+              "content": "Siga este roteiro em 3 etapas para aproveitar ao máximo todo o conteúdo digital incluso."
+            }
+          ]
+        },
+        {
+          "id": "piece-offer-1793732041247-bonus",
+          "category": "bonus",
+          "title": "Caderno de Atividades Complementares para Imprimir",
+          "badge": "Bônus",
+          "pagesCount": 4,
+          "status": "ready",
+          "pages": [
+            {
+              "pageNumber": 1,
+              "title": "Caderno de Atividades Complementares para Imprimir",
+              "content": "Fichas extras de grafismo para reforçar a associação entre som e letra entre as sessões principais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "del-1793250083334",
+      "offerId": "standalone",
+      "title": "alfabetizacao kids",
+      "format": "PDF Imprimível em Folha A4",
+      "totalPages": 8,
+      "status": "ready",
+      "design": {
+        "visualConcept": "Editorial educativo com tons suaves, tipografia clara e elementos gráficos minimalistas que remetem a cadernos de alfabetização infantil.",
+        "accentColor": "#2563eb",
+        "pageBackground": "#f8fafc",
+        "surfaceColor": "#ffffff",
+        "textColor": "#0f172a",
+        "mutedTextColor": "#64748b",
+        "fontStyle": "editorial",
+        "pageStyle": "workbook",
+        "coverStyle": "typographic",
+        "decoration": "paper"
+      },
+      "chapters": [
+        {
+          "id": "c1",
+          "title": "Capítulo 1: Fundamentos & Apresentação",
+          "content": "Introdução e metodologia aplicada."
+        },
+        {
+          "id": "c2",
+          "title": "Capítulo 2: Execução Prática",
+          "content": "Passo a passo com exemplos reais e checklists."
+        }
+      ],
+      "pieces": [
+        {
+          "id": "piece-main-1793250083334",
+          "category": "main",
+          "title": "alfabetizacao kids",
+          "badge": "Produto",
+          "pagesCount": 8,
+          "status": "ready",
+          "pages": [
+            {
+              "pageNumber": 1,
+              "title": "alfabetizacao kids - Capa Oficial e Apresentação do Método",
+              "subtitle": "Guia Prático Passo a Passo para alfabetização infantil",
+              "content": "Este guia oficial apresenta o método Guia Prático Passo a Passo para alfabetização kids, destinado a profissionais da educação e interessados em apoiar crianças no processo de leitura e escrita. A promessa do material é estruturar a alfabetização de forma sequencial, respeitando o ritmo individual de cada estudante. Antes de iniciar, leia todo o documento e organize o ambiente de estudo com materiais básicos: lápis, borracha, caderno e fichas impressas. Passo 1: defina o objetivo da sessão, como reconhecer vogais ou consoantes específicas. Passo 2: apresente o conceito com exemplos concretos e objetos reais. Passo 3: proponha exercícios de fixação, como identificar a letra alvo em palavras curtas. Passo 4: registre o desempenho na ficha de acompanhamento ao final de cada encontro. Alerta: não pule etapas, pois a alfabetização depende de bases sólidas e sequenciais. Dica: mantenha sessões curtas, de 15 a 20 minutos, para preservar a atenção da criança. Este material serve como roteiro prático de execução e não substitui o acompanhamento de especialistas da área.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 2,
+              "title": "Módulo 1 - Reconhecimento de Letras e Sons",
+              "subtitle": "Como apresentar o alfabeto e associar cada letra ao seu som correspondente",
+              "content": "O primeiro módulo foca no reconhecimento visual e fonético das letras do alfabeto. O objetivo é que a criança associe o símbolo gráfico ao som que ele representa, sem confundir o nome da letra com seu valor sonoro. Passo 1: selecione de três a cinco letras por sessão, começando pelas vogais A, E, I, O, U. Passo 2: mostre a letra maiúscula e minúscula, pronunciando apenas o som, por exemplo, /a/ para a letra A. Passo 3: apresente objetos ou imagens que iniciem com esse som, como abacaxi para A. Passo 4: peça que a criança repita o som e aponte para a letra correta entre duas opções. Passo 5: registre na ficha quais letras foram reconhecidas e quais precisam de reforço. Alerta: não ensine o nome da letra (ex: 'á') antes de consolidar o som, pois isso pode atrasar a decodificação. Dica: use letras texturizadas, como lixa ou massinha, para envolver o tato e facilitar a memorização. Mantenha o ambiente livre de distrações e ofereça feedback imediato e positivo a cada acerto.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 3,
+              "title": "Módulo 2 - Sílabas Simples e Combinações",
+              "subtitle": "Do som isolado à formação de sílabas: PA, PE, PI, PO, PU",
+              "content": "Neste módulo, a criança aprende a combinar consoantes e vogais para formar sílabas simples, passo fundamental para a leitura de palavras. Passo 1: escolha uma consoante, como P, e combine com cada vogal, formando PA, PE, PI, PO, PU. Passo 2: escreva as sílabas em cartões separados e peça que a criança leia cada uma em voz alta. Passo 3: use batidas de palmas para marcar a divisão entre consoante e vogal, reforçando a unidade silábica. Passo 4: apresente sílabas com letras diferentes, como MA, ME, MI, MO, MU, e compare os sons iniciais. Passo 5: proponha um jogo de memória com pares de sílabas iguais para fixar o reconhecimento visual. Alerta: não avance para palavras antes que a criança decodifique as sílabas com segurança e sem hesitação excessiva. Dica: trabalhe com no máximo cinco sílabas por sessão para evitar sobrecarga cognitiva. Registre o progresso na ficha de acompanhamento após cada atividade.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 4,
+              "title": "Módulo 3 - Palavras Curtas e Leitura Fluente",
+              "subtitle": "Decodificação de palavras de duas e três sílabas com leitura em voz alta",
+              "content": "O terceiro módulo introduz a leitura de palavras curtas, unindo sílabas já aprendidas em unidades de significado. Passo 1: monte uma lista de palavras de duas sílabas, como bola, casa, pata e lula, usando apenas letras trabalhadas anteriormente. Passo 2: faça a leitura modelada, apontando para cada sílaba enquanto pronuncia a palavra inteira. Passo 3: convide a criança a ler em conjunto, seguindo o ritmo da sua voz. Passo 4: solicite a leitura individual, oferecendo tempo para decodificar silenciosamente antes de falar em voz alta. Passo 5: apresente palavras de três sílabas, como banana e janela, apenas quando a leitura de duas sílabas estiver fluente. Alerta: não corrija cada erro imediatamente durante a leitura fluente, pois interrupções constantes prejudicam a construção do sentido. Dica: escolha palavras do cotidiano da criança, como nomes de familiares e objetos da casa, para aumentar o engajamento. Anote as palavras com maior dificuldade na ficha de acompanhamento.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 5,
+              "title": "Módulo 4 - Frases Simples e Compreensão de Texto",
+              "subtitle": "Unir palavras em frases curtas e verificar se a criança entende o que lê",
+              "content": "Nesta etapa, a criança passa da leitura isolada de palavras para a construção de frases simples e a compreensão de sentido. Passo 1: escreva frases curtas com palavras já decodificadas, como 'O gato pula' ou 'Ana lê o livro'. Passo 2: leia a frase em voz alta, apontando para cada palavra para estabelecer a correspondência entre fala e texto. Passo 3: peça que a criança leia a frase sozinha e, em seguida, responda a uma pergunta de compreensão, como 'Quem pula?'. Passo 4: use imagens sequenciais para que a criança ordene a história de acordo com as frases lidas. Passo 5: incentive a criança a criar sua própria frase curta usando um modelo pronto. Alerta: não confunda a capacidade de decodificar palavras com a habilidade de interpretar o texto; avalie os dois aspectos separadamente. Dica: mantenha as frases com no máximo seis palavras nas primeiras sessões para preservar a memória de trabalho. Registre o nível de compreensão na ficha de acompanhamento.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 6,
+              "title": "Módulo 5 - Escrita Inicial e Formação de Palavras",
+              "subtitle": "Do traçado das letras à escrita espontânea de palavras simples",
+              "content": "O quinto módulo direciona o foco para a produção escrita, iniciando pelo traçado guiado e avançando para a formação de palavras. Passo 1: modele o traçado de cada letra no quadro ou papel, indicando a direção correta do movimento. Passo 2: ofereça fichas com letras tracejadas para que a criança copie o movimento com lápis. Passo 3: proponha a cópia de palavras curtas, como sol, pão e bola, respeitando o espaçamento entre letras. Passo 4: realize um ditado simples, dizendo a palavra devagar para que a criança escreva fonema por fonema. Passo 5: incentive a escrita espontânea de uma palavra de escolha da criança, mesmo que haja erros ortográficos iniciais. Alerta: não exija caligrafia perfeita nem corrija todos os erros de ortografia nas primeiras tentativas, pois isso pode inibir a escrita. Dica: use lápis com apoio de aderência e folhas pautadas para facilitar a postura e o alinhamento. Registre as palavras escritas na ficha de acompanhamento.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 7,
+              "title": "Módulo 6 - Revisão, Fixação e Avaliação do Progresso",
+              "subtitle": "Consolidar conteúdos aprendidos e identificar pontos que precisam de reforço",
+              "content": "O sexto módulo é dedicado à revisão sistemática dos conteúdos trabalhados, garantindo que a criança fixe o aprendizado antes de avançar. Passo 1: reserve a última sessão da semana para revisar letras, sílabas e palavras estudadas nos dias anteriores. Passo 2: use jogos de memória ou bingo com sílabas para tornar a fixação lúdica e menos formal. Passo 3: aplique uma avaliação informal, pedindo que a criança leia uma lista curta de palavras e escreva três delas ditadas. Passo 4: preencha a ficha de acompanhamento marcando o nível de domínio: em desenvolvimento, consolidado ou necessita de reforço. Passo 5: planeje a próxima semana com base nos itens marcados como necessitando de reforço. Alerta: não compare o desempenho da criança com o de outros estudantes, pois o ritmo de alfabetização é individual. Dica: celebre pequenas conquistas, como ler uma palavra completa sem ajuda, para manter a motivação elevada. Mantenha o registro atualizado para orientar os próximos passos.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 8,
+              "title": "Ficha de Acompanhamento, Próximos Passos e Erros Críticos a Evitar",
+              "subtitle": "Registro de evolução, planejamento da continuidade e armadilhas comuns do processo",
+              "content": "Esta página reúne ferramentas para monitorar a evolução da criança e definir os próximos passos com clareza. Passo 1: preencha a ficha de acompanhamento com a data da sessão, o conteúdo trabalhado (letra, sílaba, palavra ou frase) e o nível de desempenho observado. Passo 2: anote os erros recorrentes, como confusão entre letras semelhantes (b e d, p e q) ou dificuldade em unir sílabas. Passo 3: defina os próximos passos com base nos registros, priorizando conteúdos que ainda não foram consolidados. Passo 4: revise os erros críticos a evitar ao longo do processo: pular etapas do método, pressionar a criança por resultados rápidos, corrigir excessivamente durante a leitura fluente e ignorar sinais de cansaço ou desinteresse. Passo 5: agende uma reunião de feedback com os pais ou responsáveis, apresentando a ficha de acompanhamento como base de conversa. Alerta: este material é um guia prático e não substitui avaliação profissional especializada quando há suspeita de dificuldades de aprendizagem. Dica: mantenha as fichas organizadas em pasta ou caderno para visualizar o progresso ao longo do tempo.",
+              "imageUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "piece-bonus-1793250083334",
+          "category": "bonus",
+          "title": "Checklist Rápido: 10 Passos para alfabetizacao kids",
+          "badge": "Bônus",
+          "pagesCount": 4,
+          "status": "not_generated",
+          "pages": []
+        }
+      ],
+      "gammaGenerationId": "gen_hf5dOw6Ohfx9Np6OwF7Ze",
+      "gammaUrl": "https://gamma.app/docs/c7r4izm1901kzze",
+      "gammaExportUrl": "https://assets.api.gamma.app/export/pdf/c7r4izm1901kzze/f4fa6a85cc0087d8039afd9e433efa5f/alfabetizacao-kids-Capa-Oficial-e-Apresentacao-do-Metodo.pdf"
+    },
+    {
+      "id": "del-1793249722694",
+      "offerId": "standalone",
+      "title": "alfabetizacao kids",
+      "format": "PDF Imprimível em Folha A4",
+      "totalPages": 8,
+      "status": "ready",
+      "design": {
+        "visualConcept": "Layout educativo limpo com blocos de conteúdo organizados, cores suaves e tipografia legível para materiais de alfabetização infantil.",
+        "accentColor": "#2563eb",
+        "pageBackground": "#f8fafc",
+        "surfaceColor": "#ffffff",
+        "textColor": "#0f172a",
+        "mutedTextColor": "#64748b",
+        "fontStyle": "editorial",
+        "pageStyle": "workbook",
+        "coverStyle": "typographic",
+        "decoration": "dots"
+      },
+      "chapters": [
+        {
+          "id": "c1",
+          "title": "Capítulo 1: Fundamentos & Apresentação",
+          "content": "Introdução e metodologia aplicada."
+        },
+        {
+          "id": "c2",
+          "title": "Capítulo 2: Execução Prática",
+          "content": "Passo a passo com exemplos reais e checklists."
+        }
+      ],
+      "pieces": [
+        {
+          "id": "piece-main-1793249722694",
+          "category": "main",
+          "title": "alfabetizacao kids",
+          "badge": "Produto",
+          "pagesCount": 8,
+          "status": "ready",
+          "pages": [
+            {
+              "pageNumber": 1,
+              "title": "alfabetização kids - Capa Oficial e Apresentação do Método",
+              "subtitle": "Guia Prático Passo a Passo: leia antes de iniciar e siga a ordem dos módulos",
+              "content": "Este guia oficial apresenta o método Guia Prático Passo a Passo para alfabetização kids, destinado a profissionais e interessados que desejam estruturar o ensino da leitura e escrita para crianças. O material está dividido em módulos sequenciais que devem ser seguidos na ordem apresentada.\n\nComo aplicar este material:\n1. Leia esta página para compreender a proposta e a estrutura do guia.\n2. Acesse os módulos das páginas 2 a 7 para executar as atividades práticas com a criança.\n3. Utilize a página 8 para registrar o acompanhamento e identificar erros críticos.\n4. Repita os módulos sempre que a criança precisar de reforço em uma etapa específica.\n\nAlerta de erro comum: não pule etapas sob a pressa de acelerar a leitura. Cada módulo pressupõe a consolidação do anterior. Dica prática: reserve entre 15 e 20 minutos por sessão, mantendo a rotina diária ou semanal, conforme a disponibilidade da criança e do responsável. Este conteúdo é um roteiro de execução e não substitui avaliação profissional especializada quando houver necessidade.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 2,
+              "title": "Módulo 1: Fundamentos da Alfabetização Infantil",
+              "subtitle": "Entenda os pilares iniciais antes de iniciar qualquer atividade com a criança",
+              "content": "O primeiro módulo estabelece os pilares da alfabetização infantil: reconhecimento de letras, consciência fonêmica e associação entre som e símbolo. Antes de entregar qualquer atividade, verifique se o ambiente está livre de distrações e se o material está adequado à faixa etária.\n\nPassos de execução:\n1. Apresente as letras do alfabeto uma por vez, sempre acompanhadas do som correspondente.\n2. Peça que a criança repita o som em voz alta antes de tentar nomear a letra.\n3. Use objetos do cotidiano para conectar a letra ao mundo real (exemplo: 'A de avião').\n4. Realize uma revisão breve ao final de cada sessão.\n\nAlerta de erro: não exija que a criança leia palavras completas antes de dominar os sons isolados das letras. Dica prática: mantenha sessões curtas, entre 10 e 15 minutos, para preservar a atenção. Se a criança demonstrar cansaço, interrompa e retome em outro momento. O progresso deve ser observado sem pressão, respeitando o ritmo individual de cada aprendiz.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 3,
+              "title": "Módulo 2: Sequência Didática e Planejamento de Atividades",
+              "subtitle": "Monte um cronograma semanal baseado na progressão da criança",
+              "content": "Este módulo orienta a construção de uma sequência didática consistente, essencial para que a criança avance com segurança no processo de alfabetização. Um planejamento prévio evita saltos de conteúdo e permite identificar onde a criança precisa de reforço.\n\nPassos de execução:\n1. Defina os objetivos semanais com base nos módulos deste guia.\n2. Organize as atividades em ordem crescente de dificuldade.\n3. Inclua momentos de revisão antes de iniciar novo conteúdo.\n4. Anote as dificuldades observadas para trabalhar na próxima sessão.\n\nAlerta de erro: não avance para o próximo módulo se a criança ainda apresentar dificuldade significativa na etapa anterior. Dica prática: utilize um calendário simples para marcar os dias de atividade e os dias de descanso. A regularidade é mais importante que a duração longa de cada encontro. Este planejamento serve como referência e deve ser ajustado conforme a resposta da criança.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 4,
+              "title": "Módulo 3: Atividades Práticas de Reconhecimento de Letras",
+              "subtitle": "Exercícios executáveis para fixar o alfabeto e os sons correspondentes",
+              "content": "Aqui você encontra atividades práticas para fixar o reconhecimento de letras e seus sons, base do mecanismo Guia Prático Passo a Passo. O foco está na identificação visual e auditiva de cada caractere do alfabeto.\n\nPassos de execução:\n1. Escolha de 3 a 5 letras por sessão para não sobrecarregar a criança.\n2. Apresente a letra maiúscula e minúscula lado a lado.\n3. Peça que a criança rastreie a letra com o dedo antes de usar lápis.\n4. Proponha uma caça às letras em livros, revistas ou rótulos de produtos.\n\nAlerta de erro: evite fontes decorativas ou manuscritas difíceis de identificar; use tipos de letra claros e padronizados. Dica prática: ofereça materiais concretos, como letras de plástico ou massinha de modelar, para tornar o reconhecimento tátil. Se a criança confundir letras semelhantes (exemplo: b e d), isole cada uma em sessões diferentes antes de trabalhar ambas juntas.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 5,
+              "title": "Módulo 4: Formação de Sílabas e Primeiras Palavras",
+              "subtitle": "Passe do reconhecimento individual à combinação de sons de forma gradual",
+              "content": "Neste módulo, a criança passa do reconhecimento isolado de letras para a combinação de sons, formando sílabas e, em seguida, primeiras palavras simples. A progressão deve ser lenta e baseada na consolidação de cada etapa.\n\nPassos de execução:\n1. Trabalhe sílabas diretas com vogais simples (ba, be, bi, bo, bu).\n2. Peça que a criança pronuncie cada sílaba separadamente antes de uní-las.\n3. Forme palavras de duas sílabas usando apenas sons já aprendidos (exemplo: bola, casa).\n4. Leia as palavras em voz alta e peça que a criança aponte para cada sílaba enquanto lê.\n\nAlerta de erro: não introduza palavras longas ou com grupos consonantais complexos antes que a criança domine sílabas simples. Dica prática: use cartões com sílabas para que a criança monte e desmonte palavras fisicamente. Celebre cada palavra lida corretamente, mas mantenha o foco na compreensão do mecanismo de combinação de sons.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 6,
+              "title": "Módulo 5: Leitura Inicial e Compreensão de Textos Curtos",
+              "subtitle": "Aplique leituras guiadas e verifique a compreensão da criança",
+              "content": "Este módulo direciona a leitura inicial de textos curtos e a verificação da compreensão, etapa fundamental para que a alfabetização vá além da decodificação mecânica de palavras.\n\nPassos de execução:\n1. Selecione textos com frases curtas e palavras já trabalhadas nos módulos anteriores.\n2. Leia o texto primeiro para modelar a entonação e o ritmo.\n3. Peça que a criança leia em voz alta, apontando para cada palavra.\n4. Faça perguntas simples sobre o que foi lido (exemplo: 'Quem é o personagem?').\n\nAlerta de erro: não foque apenas na leitura correta das palavras sem verificar se a criança entendeu o sentido do texto. Dica prática: utilize ilustrações relacionadas ao texto para apoiar a compreensão, mas não substitua a leitura pelas imagens. Se a criança travar em uma palavra, incentive-a a separar em sílabas antes de fornecer a resposta.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 7,
+              "title": "Módulo 6: Escrita Inicial e Registro de Palavras",
+              "subtitle": "Estimule a produção escrita a partir do reconhecimento de letras e sílabas",
+              "content": "Aqui você encontra orientações para estimular a escrita inicial, conectando o reconhecimento de letras e sílabas à produção de registros escritos pela criança.\n\nPassos de execução:\n1. Peça que a criança copie palavras curtas já lidas nos módulos anteriores.\n2. Proponha ditado simples de sílabas e palavras de duas sílabas.\n3. Incentive a criança a escrever seu próprio nome e o de familiares.\n4. Avalie a formação das letras sem exigir perfeição gráfica imediata.\n\nAlerta de erro: não corrija todos os erros de ortografia no primeiro contato com a escrita, pois isso pode inibir a produção. Dica prática: valorize a tentativa da criança antes de apontar ajustes. Use papel pautado ou guias de espaçamento para ajudar na organização da página. A escrita deve surgir como extensão natural da leitura, não como tarefa separada e desconectada.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 8,
+              "title": "Ficha de Acompanhamento, Próximos Passos e Erros Críticos",
+              "subtitle": "Registre o avanço da criança e evite armadilhas comuns no processo",
+              "content": "A página final reúne a ficha de acompanhamento, os próximos passos e os erros críticos a evitar ao longo do processo de alfabetização kids. Utilize este material para registrar o avanço e planejar a continuidade.\n\nPassos de execução:\n1. Preencha a ficha após cada sessão, anotando letras, sílabas e palavras dominadas.\n2. Identifique quais módulos precisam ser revisados antes de avançar.\n3. Defina os próximos passos com base nas dificuldades registradas.\n4. Consulte a lista de erros críticos antes de iniciar cada novo ciclo.\n\nErros críticos a evitar: comparar o ritmo de diferentes crianças, pular etapas por pressa e corrigir excessivamente a escrita inicial. Próximos passos: revisar a ficha de acompanhamento, retomar módulos com menor desempenho e manter a rotina de atividades curtas e regulares. Este guia é um roteiro de apoio e não substitui o acompanhamento de profissionais da educação quando necessário.",
+              "imageUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "piece-bonus-1793249722694",
+          "category": "bonus",
+          "title": "Checklist Rápido: 10 Passos para alfabetizacao kids",
+          "badge": "Bônus",
+          "pagesCount": 4,
+          "status": "not_generated",
+          "pages": []
+        }
+      ],
+      "gammaGenerationId": "gen_VPiil57Mc9Z25Qeejsyag"
+    },
+    {
+      "id": "del-1793131854749",
+      "offerId": "standalone",
+      "title": "leitura do alfabeto para criancas ",
+      "format": "E-book Passo a Passo",
+      "totalPages": 8,
+      "status": "ready",
+      "chapters": [
+        {
+          "id": "c1",
+          "title": "Capítulo 1: Fundamentos & Apresentação",
+          "content": "Introdução e metodologia aplicada."
+        },
+        {
+          "id": "c2",
+          "title": "Capítulo 2: Execução Prática",
+          "content": "Passo a passo com exemplos reais e checklists."
+        }
+      ],
+      "pieces": [
+        {
+          "id": "piece-main-1793131854749",
+          "category": "main",
+          "title": "leitura do alfabeto para criancas ",
+          "badge": "Produto",
+          "pagesCount": 8,
+          "status": "ready",
+          "pages": [
+            {
+              "pageNumber": 1,
+              "title": "Leitura do Alfabeto para Crianças - Capa Oficial e Apresentação",
+              "subtitle": "Guia Prático Passo a Passo: Como Aplicar Este Material",
+              "content": "Este guia foi desenvolvido para oferecer um caminho estruturado e progressivo no ensino da leitura do alfabeto para crianças. O mecanismo central baseia-se na associação direta entre fonema (som) e grafema (letra), utilizando repetição espaçada e contexto lúdico para fixação. O material é destinado a pais, educadores e profissionais que buscam uma sequência lógica, saindo do reconhecimento visual para a decodificação silábica.\n\nComo aplicar este material:\n1. Reserve sessões curtas de 10 a 15 minutos, diárias ou em dias alternados, respeitando a capacidade de atenção da criança.\n2. Siga a ordem numérica das páginas; não pule etapas, pois cada uma constrói a base para a seguinte.\n3. Utilize a 'Ficha de Acompanhamento' (Página 8) para registrar o progresso em cada letra/som.\n4. Priorize o som da letra (ex: 'bê' -> /b/) em vez do nome da letra ('bê') nas primeiras fases.\n\nAlerta: Evite pressionar a criança a ler palavras completas antes de dominar os sons isolados e as vogais. A fluência nasce da automatização dos componentes menores. Dica: Use objetos do cotidiano (brinquedos, frutas) para exemplificar o som inicial da letra estudada na sessão.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 2,
+              "title": "Módulo 1: As Vogais - A Base dos Sons",
+              "subtitle": "Reconhecimento Auditivo, Visual e Articulação das 5 Vogais",
+              "content": "As vogais são o alicerce da sílaba. Neste módulo, o foco é garantir que a criança identifique, articule e associe o símbolo gráfico ao som aberto e contínuo de cada vogal (A, E, I, O, U).\n\nPassos de execução:\n1. Apresentação Auditiva: Exagere a abertura da boca ao pronunciar cada vogal isoladamente (/a/, /e/, /i/, /o/, /u/). Peça para a criança imitar observando seu rosto.\n2. Associação Visual: Mostre a letra maiúscula e minúscula (cursiva e bastão) simultaneamente. Trace a letra no ar com o dedo indicador (movimento grosso motor).\n3. Discriminação Auditiva: Diga uma sequência de 3 sons (ex: /a/ - /i/ - /a/) e peça para a criança bater palma apenas quando ouvir o som alvo da aula.\n4. Registro: Na ficha da Página 8, marque 'Reconhece Som' e 'Identifica Forma' para cada vogal.\n\nErro Crítico: Ensinar o nome da letra ('á', 'é', 'i') antes do som (/a/, /e/, /i/). Isso gera confusão na decodificação silábica futura (a criança lê 'M-A' como 'em-á' em vez de 'mã').\nDica Prática: Use um espelho pequeno para a criança observar o formato da própria boca ao emitir cada vogal, reforçando a propriocepção articulatoria.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 3,
+              "title": "Módulo 2: Consoantes de Alta Frequência - M, P, S, T, L, R",
+              "subtitle": "Construção das Primeiras Sílabas Simples (CV) com Sons Contínuos e Oclusivos",
+              "content": "Selecionamos consoantes de alta utilidade e distinção articulatoria clara para formar as primeiras sílabas Consonante-Vogal (CV). Sons contínuos (M, S, L, R) facilitam a fusão; oclusivos (P, T) exigem precisão.\n\nPassos de execução:\n1. Isolamento do Som: Ensine o som 'puro' da consoante sem vogal de apoio (ex: /mmm/, /sss/, /lll/ vs /p/, /t/). Evite dizer 'me', 'pe', 'te'.\n2. Fusão Explícita (Blending): Modele a fusão arrastando o som da consoante para a vogal. Ex: 'mmmmm... aaaa' -> 'ma'. Use seta visual ou movimento de mão deslizando.\n3. Famílias Silábicas: Apresente a 'Família do M' (ma, me, mi, mo, mu), depois 'Família do P', etc. Mantenha a vogal variando, a consoante fixa.\n4. Leitura de Sílabas Soltas: Use cartões ou a tabela da Página 8. Peça leitura aleatória para evitar decoreba de sequência.\n\nAlerta: Não introduza consoantes visual ou sonoramente similares na mesma semana (ex: M/N, P/B, D/T). Espaçe em módulos distintos.\nDica: Para sons oclusivos (P, T), coloque a mão da criança diante da sua boca para sentir o 'sopro' de ar, diferenciando de sons sonoros (B, D).",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 4,
+              "title": "Módulo 3: Decodificação de Palavras CVC e CVV",
+              "subtitle": "Leitura de Palavras Monossílabas e Dissílabas Simples (Ex: Mala, Pato, Sapo)",
+              "content": "Com as vogais e 6 consoantes dominadas, a criança possui repertório para ler dezenas de palavras reais. O foco muda da sílaba isolada para a decodificação sequencial (sílaba a sílaba) e fusão total da palavra.\n\nPassos de execução:\n1. Modelo 'Dedo Sob a Sílaba': Aponte para cada sílaba da palavra (ex: MA - LA). A criança lê a primeira, lê a segunda e depois 'junta' falando rápido: 'mala'.\n2. Lista Controlada: Use apenas palavras formadas pelas letras já ensinadas (M, P, S, T, L, R + Vogais). Exemplos: mapa, pote, sola, rato, lupa, pipo.\n3. Ditado Silábico (Escrita): Diga a palavra devagar, sílaba por sílaba. A criança escreve o que ouve. Isso reforça a correspondência fonema-grafema via via motora.\n4. Verificação de Compreensão: Após ler, pergunte: 'O que é mala?' ou peça para apontar a figura correspondente. Leitura sem compreensão é decodificação vazia.\n\nErro Comum: A criança 'engole' a vogal final ou inverte sílabas (ex: lê 'pato' como 'topa'). Corrija voltando à fusão silábica lenta (Página 3).\nDica: Crie 'frases bobas' com as palavras da lista (ex: 'O rato come mala') para treinar fluência em contexto e gerar engajamento.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 5,
+              "title": "Módulo 4: Expansão do Alfabeto - Consoantes Restantes e Digrafos",
+              "subtitle": "Introdução Sistemática de B, D, F, V, C, G, J, H, Q, Z, X, K, W, Y, NH, LH, CH, RR",
+              "content": "A expansão deve ser gradativa, agrupando por características articulatorias ou frequência. Digrafos (duas letras, um som) exigem instrução explícita pois quebram a regra 'uma letra = um som'.\n\nPassos de execução:\n1. Grupos Articulatórios: Ensine pares sonoro/surdo juntos para contraste (F/V, P/B, T/D, S/Z, C/G, CH/J). Ex: /f/ (sopro, voz desligada) vs /v/ (sopro, voz ligada).\n2. O Caso do C e G: Ensine as regras de 'C/Ç' (ce, ci = /s/; ca, co, cu = /k/) e 'G/J' (ge, gi = /j/; ga, go, gu = /g/) com exemplos visuais (cedilha, trema histórico).\n3. Digrafos NH, LH, CH, RR: Apresente como 'times de letras'. Treine isoladamente: nha, nhe, nhi...; lha, lhe, lhi...; cha, che, chi...; rra, rre, rri...\n4. Revisão Cumulativa: A cada 3-4 novas consoantes, faça sessão de revisão misturando letras antigas e novas em listas de sílabas e palavras.\n\nAlerta Crítico: Não ensine 'H' como som (/r/ ou /i/); ensine como 'letra muda' que modifica o som da vizinha (NH, LH, CH, RR) ou marca etimologia.\nDica: Use caixa de areia ou massinha para modelar as letras novas (movimento grosso motor) antes de pedir escrita no papel (fino motor).",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 6,
+              "title": "Módulo 5: Complexidade Silábica - Encontros Consonantais e Sílabas Complexas",
+              "subtitle": "Leitura de CCV, CCCV, VC, CVC (Ex: Pra, Bla, Tron, Az, Ol, Mar)",
+              "content": "Palavras reais exigem lidar com encontros consonantais (pl, br, tr, dr, cl, fl, gl, pr, cr, vr, fr, gr, tr, qu, ps, pn) e sílabas terminadas em consoante (VC, CVC). Esta etapa separa leitores iniciantes de fluentes.\n\nPassos de execução:\n1. Encontros de Fácil Fusão (Líquidas L/R): Inicie com PL, BL, FL, GL, KL, PR, BR, TR, DR, CR, FR, GR, VR. A liquidez de L/R facilita a fusão com a consoante anterior. Treino: 'P...L...A' -> 'Pla'.\n2. Encontros Complexos (Nasais/Sibilantes): MP, MB, NT, ND, NC, LT, RT, ST, SC, SP, QU. Exigem segmentação mais clara. Estratégia: 'Bata palma para cada som da sílaba' (ex: Plan-ta = 4 palmas /p/-/l/-/a/-/n/-/t/-/a/ -> 2 sílabas).\n3. Sílabas Terminadas em Consoante (CVC/VC): Ensine que a vogal 'fecha' a sílaba. Exemplos: Sol, Mar, Azul, Olho. Regra prática: 'Consoante sozinha no final abraça a vogal anterior'.\n4. Leitura de Textos Curtos: Frases e mini-histórias usando vocabulário cumulativo das Páginas 2 a 6.\n\nErro Frequente: Inserir vogal de apoio inexistente (ex: ler 'Pato' como 'Pat-o' ou 'Bola' como 'Bo-la' corretamente, mas 'Plano' como 'Pi-la-no'). Corrija com fusão lenta e consciência fonológica de sons adjacentes.\nDica: Use régua de sílabas ou caixas elkonin (quadradinhos para cada fonema) para visualizar a estrutura da sílaba complexa.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 7,
+              "title": "Módulo 6: Fluência, Pontuação e Compreensão Leitora",
+              "subtitle": "Transição da Decodificação Lenta para Leitura Automática com Entonação e Sentido",
+              "content": "Dominar o código não garante fluência. Esta página foca na automação do reconhecimento de palavras frequentes (alta frequência), respeito à pontuação e monitoramento de sentido.\n\nPassos de execução:\n1. Banco de Palavras de Alta Frequência: Ensine globalmente (visão) palavras irregulares ou muito comuns que quebram regras fonéticas parciais (ex: 'a', 'o', 'as', 'os', 'é', 'tem', 'vem', 'faz', 'diz', 'foi', 'vai', 'mãe', 'pai', 'avó'). Treino: cartões de leitura rápida (1 seg).\n2. Leitura Repetida (Repeated Reading): A criança lê o mesmo texto curto (30-50 palavras) 3 a 4 vezes em dias consecutivos. Meta: aumentar palavras corretas por minuto (WCPM) e reduzir erros.\n3. Teatro do Leitor / Leitura Compartilhada: Adulto modela entonação, pausas (vírgula, ponto), entonação de interrogação/exclamação. Criança imita imediatamente (eco-leitura) e depois lê sozinha.\n4. Perguntas de Monitoramento: 'O que você entendeu?', 'Por que o personagem fez isso?', 'O que vai acontecer depois?'. Ensina que ler = pensar.\n\nAlerta: Não cronometre a leitura se a precisão estiver abaixo de 90%. Velocidade sem acurácia consolida erros.\nDica: Grave a leitura da criança (áudio) no início da semana e no final. A comparação auditiva gera motivação intrínseca e autocorreção.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 8,
+              "title": "Ficha de Acompanhamento, Próximos Passos e Erros Críticos a Evitar",
+              "subtitle": "Instrumento de Registro Contínuo, Roteiro de Continuidade e Checklist de Armadilhas",
+              "content": "Esta página consolida o monitoramento do progresso e orienta a continuidade após o domínio do código alfabético básico.\n\nFicha de Acompanhamento (Use uma linha por letra/som):\nColunas: Letra/Som | Reconhece Som (Sim/Em processo) | Identifica Forma Maiúscula | Identifica Forma Minúscula | Lê Sílabas CV | Lê Palavras CVC/CVV | Escreve Ditado | Data Domínio.\nPreencha quinzenalmente. Itens 'Em processo' viram foco da semana seguinte.\n\nPróximos Passos Pós-Alfabeto:\n1. Ortografia: Regras de acentuação, uso de SS/RR, NH/LH, CH, X/CH, G/J, C/Ç, M/N antes de P/B.\n2. Morfologia Básica: Plural, gênero, aumentativo/diminutivo, prefixos/sufixos comuns (des-, re-, -inho, -ão).\n3. Gêneros Textuais: Leitura guiada de bilhetes, receitas, notícias infantis, fábulas, quadrinhos.\n4. Produção Textual: Ditado livre, reescrita de finais de história, listas, cartas.\n\nErros Críticos a Evitar (Checklist Final):\n[ ] Pular etapas fonológicas (rimas, aliterações, segmentação silábica) antes das letras.\n[ ] Ensinar nome da letra antes do som (confusão 'Be-A-Bá').\n[ ] Apresentar muitas letras novas por sessão (ideal: 1 a 2 consoantes/semana).\n[ ] Corrigir erros com 'Não, é assim' sem modelar a fusão correta.\n[ ] Exigir leitura de livros 'de verdade' (textos longos, vocabulário não controlado) antes da fluência em textos controlados.\n[ ] Negligenciar a compreensão: criança que decodifica rápido mas não explica o texto precisa voltar à Página 7.\n\nRegistre a data de conclusão do ciclo alfabético aqui: ____/____/________. Celebre a conquista!",
+              "imageUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "piece-bonus-1793131854749",
+          "category": "bonus",
+          "title": "Checklist Rápido: 10 Passos para leitura do alfabeto para criancas ",
+          "badge": "Bônus",
+          "pagesCount": 4,
+          "status": "not_generated",
+          "pages": []
+        }
+      ]
+    },
+    {
+      "id": "del-offer-1793000809358",
+      "offerId": "offer-1793000809358",
+      "offerTitle": "Guia Definitivo de Superstições e Curiosidades Médicas",
+      "title": "Guia Definitivo de Superstições e Curiosidades Médicas - Material Oficial",
+      "format": "PDF Imprimivel em Folha A4",
+      "totalPages": 12,
+      "status": "ready",
+      "chapters": [
+        {
+          "id": "c1",
+          "title": "Apresentacao & Metodologia",
+          "content": "Introducao e metodologia aplicada."
+        },
+        {
+          "id": "c2",
+          "title": "Fichas Praticas",
+          "content": "Conteudo detalhado e analises."
+        }
+      ],
+      "pieces": [
+        {
+          "id": "piece-main-offer-1793000809358",
+          "category": "main",
+          "title": "Guia Definitivo de Superstições e Curiosidades Médicas",
+          "badge": "Produto Principal",
+          "pagesCount": 4,
+          "status": "ready",
+          "pages": [
+            {
+              "pageNumber": 1,
+              "title": "Capa e Introdução ao Guia de Superstições Médicas",
+              "subtitle": "Entenda como usar este guia para desmistificar mitos com base em evidências simples e acessíveis",
+              "content": "Bem-vindo ao Guia Definitivo de Superstições e Curiosidades Médicas. Este documento foi criado para ajudar você, independentemente da sua formação técnica, a entender a verdade por trás de mitos comuns sobre saúde. Para tirar o máximo proveito deste guia, leia-o com atenção, especialmente a seção de métodos de verificação. Cada superstição abordada será analisada com base em dados científicos e rebatida de forma clara. Evite tomar decisões extremas com base apenas em informações deste guia; sempre consulte um profissional de saúde para questões específicas.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 2,
+              "title": "Método de Verificação Cruzada Simplificada",
+              "subtitle": "Aprenda a regra prática de 3 fontes para confirmar ou descartar qualquer informação médica",
+              "content": "Antes de aceitar qualquer informação médica, use o Método de Verificação Cruzada Simplificado: (1) Procure fontes oficiais como Ministério da Saúde ou OMS; (2) Consulte artigos revisados por pares em portais confiáveis como PubMed ou Google Scholar; (3) Compare com orientações de profissionais regulamentados, como médicos ou enfermeiros. Erros comuns incluem acreditar em tudo que viraliza nas redes sociais e confundir opinião pessoal com evidência científica. Dica: salve links de fontes confiáveis no seu navegador para consultar sempre que necessário. Exemplo prático: se lê ‘cafeína remove calorias’, verifique em três fontes diferentes antes de aplicar na prática.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 3,
+              "title": "As 10 Superstições Médicas Mais Comuns – E a Verdade por Trás de Cada Uma",
+              "subtitle": "Veja, de forma objetiva, por que cada mito é falso ou exagero e como aplicar o aprendizado no dia a dia",
+              "content": "1. ‘Engordar come dá pra perder peso’ – Mitinho ruim, mas sem mágica. O corpo precisa de energia constante. 2. ‘Tomar whey é essencial’ – Não, proteína de alimentos normais também funciona. 3. ‘Água morna limpa o corpo’ – O fígado já faz isso melhor que qualquer bebida. 4. ‘Gordura de banho é tóxica’ – Não há prova disso; equilibrio alimentar é mais importante. 5. ‘Jejum intermitente é milagreso’ – Resulta, mas não é solução única. 6. ‘Café causa insônia’ – Depende do seu biotipo. 7. ‘Carvão ativado detoxifica’ – Não há evidência; pode até interferir em medicamentos. 8. ‘Dormir 8 horas é obrigatório’ – Varia por pessoa, mas 7 a 8 é uma média saudável. 9. ‘Gripe mata vírus’ – Placebo forte, não cura. 10. ‘Suplementos resolvem tudo’ – Apenas complementam uma dieta equilibrada. Dica de aplicação imediata: escreva em um papel quais desses mitos você acreditava e reavalie com novos olhos.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 4,
+              "title": "Conclusão e Próximos Passos",
+              "subtitle": "Reafirme o uso consciente das informações e saiba quando buscar ajuda profissional",
+              "content": "Parabéns! Agora você sabe como identificar superstições médicas e contrastar com fatos. Lembre-se: informação é poder, mas discernimento é sabedoria. Não hesite em buscar um médico ou nutricionista quando tiver dúvidas reais sobre seu corpo. Compartilhe este guia com quem também se deixa levar por mitos, mas evite posicionar-se como especialista. Para continuar aprendendo, siga canais oficiais de saúde e mantenha o hábito de verificar três fontes antes de acreditar. Se quiser aprofundar, busque conteúdos de universidades ou instituições de pesquisa confiáveis.",
+              "imageUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "piece-bonus-offer-1793000809358-1",
+          "category": "bonus",
+          "title": "Checklist de Sintomas para Consultas",
+          "badge": "Bonus",
+          "pagesCount": 4,
+          "status": "ready",
+          "pages": [
+            {
+              "pageNumber": 1,
+              "title": "Checklist de Sintomas para Consultas — Capa Oficial e Apresentação do Método",
+              "subtitle": "Como usar este material antes, durante e depois da consulta médica, passo a passo.",
+              "content": "Este checklist é um bônus do Guia Definitivo de Superstições e Curiosidades Médicas e foi criado para ajudar homens e mulheres de 25 a 50 anos a se preparar para consultas médicas sem depender de achismos. O núcleo do material é o Método de Verificação Cruzada Simplificada: anote o sintoma, registre quando começou, o que piora ou melhora, e leve essas informações para o profissional de saúde. Assim, você evita confiar em mitos populares que circulam nas redes sociais e conversa com o médico com base em dados observados por você mesmo.\n\nComo aplicar este material:\n1. Imprima ou abra este documento no celular antes de marcar a consulta.\n2. Preencha a ficha de acompanhamento com seus sintomas mais recorrentes.\n3. Liste até três perguntas diretas para o médico, sem tentar autodiagnosticar.\n4. Leve o checklist impresso ou digital para a consulta e anote as respostas do profissional.\n\nAlerta importante: este material não substitui consulta, exame ou diagnóstico médico. Ele serve apenas como suporte de organização. Se sentir dor intensa, falta de ar ou sinais de emergência, procure atendimento imediato.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 2,
+              "title": "Módulo 1 — Mapeamento de Sintomas e Preparação para a Consulta",
+              "subtitle": "Preencha os campos abaixo com atenção e leve o resultado para o profissional de saúde.",
+              "content": "Neste módulo você vai mapear os sintomas que mais o incomodam antes da consulta. O objetivo é transformar sensações vagas em informações úteis para o médico, sem tentar interpretar doenças por conta própria.\n\nPasso 1: Escolha até três sintomas principais. Exemplos: dor de cabeça, cansaço excessivo ou inchaço nas pernas.\nPasso 2: Descreva cada um com palavras simples. Anote onde fica no corpo, desde quando começou, se é constante ou vem e vai, e se algo piora ou alivia o desconforto.\nPasso 3: Atribua uma intensidade de 0 a 10, sendo zero sem incômodo e dez o pior possível. Isso ajuda o profissional a avaliar a urgência.\nPasso 4: Liste medicamentos, chás ou suplementos que você usa atualmente, mesmo que sem receita.\nPasso 5: Leve o papel ou o celular com essas anotações para a consulta.\n\nDica prática: se não souber o nome técnico de uma sensação, descreva como se sente, por exemplo, 'lateja', 'queima' ou 'lateja ao tocar'. Não é necessário usar linguagem médica.\n\nAlerta de erro: não interrompa medicamentos nem mude doses por conta própria antes da consulta. Leve tudo o que estiver usando para o médico avaliar.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 3,
+              "title": "Módulo 2 — Verificação Cruzada Simplificada e Perguntas para o Médico",
+              "subtitle": "Contraste informações populares com orientação profissional antes de decidir qualquer conduta.",
+              "content": "O Método de Verificação Cruzada Simplificada serve para separar o senso comum da orientação técnica. Em vez de aceitar uma crença sobre saúde porque um amigo ou uma rede social disse, você leva a dúvida para o médico e registra a resposta profissional.\n\nPasso 1: Escreva uma crença ou dúvida sobre seu corpo que você ouviu recentemente.\nPasso 2: Anote a fonte dessa informação (site, familiar, influenciador, etc.).\nPasso 3: Durante a consulta, pergunte ao médico se essa informação se aplica ao seu caso.\nPasso 4: Registre a resposta do profissional com as próprias palavras dele, sempre que possível.\nPasso 5: Decida qualquer mudança de hábito apenas com base na orientação médica recebida.\n\nDica prática: prepare até três perguntas objetivas antes de entrar no consultório. Exemplos de estrutura: 'Ouvi que X causa Y. Isso vale para mim?' ou 'Posso continuar fazendo Z enquanto tratamos esse sintoma?'\n\nAlerta de erro: não troque medicamentos prescritos por chás, receitas caseiras ou conselhos de terceiros sem a aprovação do profissional. Cada organismo reage de forma diferente.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 4,
+              "title": "Ficha de Acompanhamento, Próximos Passos e Erros Críticos a Evitar",
+              "subtitle": "Registre o resultado da consulta e planeje o retorno com base no que o profissional orientou.",
+              "content": "Use esta página para organizar o que aconteceu na consulta e definir o que fazer depois. Preencha os campos abaixo com os dados recebidos do profissional de saúde.\n\nFicha de acompanhamento:\n- Data da consulta: __________\n- Nome do médico: __________\n- Sintomas relatados: __________\n- Exames solicitados: __________\n- Medicamentos prescritos: __________\n- Data do retorno: __________\n- Perguntas que ainda preciso fazer: __________\n\nPróximos passos:\n1. Agende o retorno dentro do prazo indicado pelo médico, mesmo que os sintomas tenham melhorado.\n2. Faça os exames solicitados dentro do prazo recomendado.\n3. Mantenha este checklist atualizado com novos sintomas ou dúvidas que surgirem.\n4. Compartilhe com familiares apenas informações confirmadas pelo profissional.\n\nErros críticos a evitar:\n- Ignorar sintomas que persistem ou pioram após a consulta.\n- Fazer automedicação ou usar receitas de outras pessoas sem orientação médica.\n- Pular exames ou consultas de retorno por falta de tempo ou vergonha.\n- Acreditar em curas milagrosas ou soluções rápidas sem comprovação profissional.\n\nMantenha este documento em um local de fácil acesso e revise-o antes de cada novo atendimento.",
+              "imageUrl": ""
+            }
+          ]
+        },
+        {
+          "id": "piece-bonus-offer-1793000809358-2",
+          "category": "bonus",
+          "title": "Guia de Golpes e Cuidados com Saúde",
+          "badge": "Bonus",
+          "pagesCount": 4,
+          "status": "ready",
+          "pages": [
+            {
+              "pageNumber": 1,
+              "title": "Guia de Golpes e Cuidados com Saúde — Capa Oficial e Apresentação do Método",
+              "subtitle": "Como usar este material bônus com o Método de Verificação Cruzada Simplificada",
+              "content": "Este guia bônus acompanha o produto principal Guia Definitivo de Superstições e Curiosidades Médicas e apresenta o Método de Verificação Cruzada Simplificada, um recurso criado para ajudar leitores sem formação técnica a avaliar informações de saúde antes de aceitá-las como verdade. O objetivo é transformar a leitura casual de curiosidades em um hábito seguro de verificação.\n\nComo aplicar este material:\n1. Leia cada alegação com curiosidade, mas sem aceitá-la automaticamente.\n2. Aplique o método: identifique quem está dizendo, procure uma fonte independente e compare as informações.\n3. Nunca use este conteúdo para autodiagnóstico ou automedicação; consulte sempre um profissional de saúde qualificado.\n\nDica prática: mantenha uma atitude cética frente a promessas milagrosas ou alertas virais. Alerta de erro: compartilhar conteúdos de saúde sem verificar a fonte pode espalhar mitos e colocar outras pessoas em risco. Este material tem caráter educativo e de entretenimento, não substitui orientação médica, diagnóstico ou tratamento.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 2,
+              "title": "Módulo 1 — Como Identificar Alegações de Saúde e Verificar Fontes",
+              "subtitle": "Passo a passo para separar informações confiáveis de mitos populares",
+              "content": "Este módulo ensina o primeiro passo do Método de Verificação Cruzada Simplificada: separar o que é dito de quem está dizendo e de onde a informação vem.\n\nPasso 1: Isolamento da alegação. Escreva exatamente a afirmação que você leu ou ouviu (por exemplo, “esse chá cura X” ou “esse sintoma significa Y”).\nPasso 2: Identificação do emissor. Pergunte quem publicou o conteúdo. É um veículo de saúde oficial, um profissional credenciado ou um perfil sem identificação clara?\nPasso 3: Busca de fontes independentes. Procure o mesmo tema em pelo menos dois canais diferentes, preferencialmente instituições de saúde ou órgãos governamentais.\n\nAlerta de erro: depoimentos pessoais e histórias de “amigo de amigo” não são evidência científica. Dica prática: desconfie de textos com erros de português, letras maiúsculas excessivas e apelos emocionais. Se a fonte não for clara, não compartilhe.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 3,
+              "title": "Módulo 2 — Cuidados Práticos e Verificação Cruzada Simplificada",
+              "subtitle": "Como aplicar o método no dia a dia antes de compartilhar ou adotar um conselho de saúde",
+              "content": "Aqui você aplica o método completo antes de adotar ou repassar qualquer conselho de saúde.\n\nPasso 1: Registre a alegação em uma nota ou caderno.\nPasso 2: Busque duas fontes independentes que abordem o mesmo assunto.\nPasso 3: Compare as informações. Elas convergem? Uma delas é de instituição reconhecida?\nPasso 4: Decida. Se houver divergência, aguarde a opinião de um profissional antes de agir.\n\nChecklist de verificação: a fonte é oficial? A data da publicação é recente? O autor tem formação na área? O conteúdo pede ação imediata sem explicação?\n\nAlerta de erro: nunca substitua uma consulta médica por leitura de internet, mesmo que a informação pareça confirmada. Dica prática: quando o assunto envolver sintomas pessoais, o caminho correto é o atendimento presencial, não a verificação cruzada online.",
+              "imageUrl": ""
+            },
+            {
+              "pageNumber": 4,
+              "title": "Ficha de Acompanhamento, Próximos Passos e Erros Críticos",
+              "subtitle": "Registre suas verificações e evite armadilhas comuns ao buscar informações de saúde",
+              "content": "Use esta página para registrar as verificações que fizer e consolidar o hábito de checar informações de saúde.\n\nFicha de acompanhamento (exemplo de preenchimento):\n- Alegação verificada: ____________________\n- Fonte consultada 1: ____________________\n- Fonte consultada 2: ____________________\n- Resultado da comparação: convergente / divergente / inconclusivo\n- Ação tomada: consultei profissional / ignorei / compartilhei com ressalva\n\nPróximos passos: continue a leitura do guia principal, aplique o método em conteúdos virais que receber e mantenha a ficha atualizada.\n\nErros críticos a evitar:\n1. Automedicar com base em leitura online.\n2. Ignorar sintomas persistentes esperando que “passem sozinhos”.\n3. Compartilhar alertas de saúde sem checar a origem.\n\nAlerta: este guia é educativo e não oferece diagnóstico, tratamento ou substituição de acompanhamento médico.",
+              "imageUrl": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "minedAds": [
+    {
+      "id": "apify-929442639749702",
+      "title": "+ de 10 mil figurinhas para stories Por R$3,99",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=929442639749702",
+      "platform": "Meta Ad Library",
+      "advertiser": "Templates - Pack de artes",
+      "advertiserAvatar": "https://scontent.fyai1-1.fna.fbcdn.net/v/t39.35426-6/642358671_25978293881864179_8658927273031438545_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Wa7QHiPxzgsQ7kNvwHuClv6&_nc_oc=AdqSMIuKbS2oPdT-sT1-DIzG2H6I98rKVYLPqQ5_05azYF6-5yE1d4XAsFp3OkyWArI&_nc_zt=14&_nc_ht=scontent.fyai1-1.fna&_nc_gid=KG-UPq7Auj7k9dCYdEZt4w&_nc_ss=78180&oh=00_AQS9kPdmX71cDoSykxzt61GZnA-PjwbUZjkyn9jUIPPATQ&oe=6AF00266",
+      "observedDate": "",
+      "niche": "Digital Creator",
+      "copy": "Este pack de figurinhas é a solução ideal para dar um toque profissional aos seus stories no Instagram! Crie stories únicos e de alta qualidade em menos de 5 minutos com essas figurinhas práticas e criativas.\n\n✅ Mais de 10 mil figurinhas prontas para usar\n✅ Bônus exclusivos \n✅ Acesso imediato e vitalício",
+      "cta": "Learn more",
+      "imageUrl": "",
+      "imageUrls": [],
+      "videoUrl": "",
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "destinationUrl": "https://packsdeartes.com.br/pack-figurinhas-2/",
+      "destinationDomain": "packsdeartes.com.br",
+      "collationCount": 7,
+      "isVideo": false
+    },
+    {
+      "id": "apify-27636571502599881",
+      "title": "+ de 10 mil figurinhas para stories Por R$3,99",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=27636571502599881",
+      "platform": "Meta Ad Library",
+      "advertiser": "Templates - Pack de artes",
+      "advertiserAvatar": "https://scontent.fyai1-1.fna.fbcdn.net/v/t39.35426-6/666362597_26479952898293032_4039996065353316025_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AeyPsCBtbh0Q7kNvwFm6paX&_nc_oc=AdrYt_ewjL2bIpeOJAzABtVmRt1L2SqELy_w7XrxKl-MB48BE0gBERdUDysb3lGFBe8&_nc_zt=14&_nc_ht=scontent.fyai1-1.fna&_nc_gid=KG-UPq7Auj7k9dCYdEZt4w&_nc_ss=78180&oh=00_AQSN0bIqcoa986_sT9i4_02T1AHrzT2PRTm13a8PsOHBYA&oe=6AF017ED",
+      "observedDate": "",
+      "niche": "Digital Creator",
+      "copy": "Este pack de figurinhas é a solução ideal para dar um toque profissional aos seus stories no Instagram! Crie stories únicos e de alta qualidade em menos de 5 minutos com essas figurinhas práticas e criativas.\n\n✅ Mais de 10 mil figurinhas prontas para usar\n✅ Bônus exclusivos \n✅ Acesso imediato e vitalício",
+      "cta": "Learn more",
+      "imageUrl": "",
+      "imageUrls": [],
+      "videoUrl": "",
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "destinationUrl": "https://packsdeartes.com.br/pack-figurinhas-2/",
+      "destinationDomain": "packsdeartes.com.br",
+      "isVideo": false
+    },
+    {
+      "id": "apify-1318639770323842",
+      "title": "+ de 10 mil figurinhas para stories Por R$3,99",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=1318639770323842",
+      "platform": "Meta Ad Library",
+      "advertiser": "Templates - Pack de artes",
+      "advertiserAvatar": "https://scontent.fyai1-1.fna.fbcdn.net/v/t39.35426-6/660497205_1329332209016539_677491704574441921_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Mk6f8Qk-fu4Q7kNvwGwOCtn&_nc_oc=AdrvPkGGHOZ7Jr7noszDBtfg9FpVV3B4lZ9C5wcVK6LmGSA9Yej8qczNUfLIKQ7uStQ&_nc_zt=14&_nc_ht=scontent.fyai1-1.fna&_nc_gid=KG-UPq7Auj7k9dCYdEZt4w&_nc_ss=78180&oh=00_AQT5kzbNHSXFppl1l5o4jjunO1PZgaCYJibtv2L9FVhWoA&oe=6AEFE69B",
+      "observedDate": "",
+      "niche": "Digital Creator",
+      "copy": "Este pack de figurinhas é a solução ideal para dar um toque profissional aos seus stories no Instagram! Crie stories únicos e de alta qualidade em menos de 5 minutos com essas figurinhas práticas e criativas.\n\n✅ Mais de 10 mil figurinhas prontas para usar\n✅ Bônus exclusivos \n✅ Acesso imediato e vitalício",
+      "cta": "Learn more",
+      "imageUrl": "",
+      "imageUrls": [],
+      "videoUrl": "",
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "destinationUrl": "https://packsdeartes.com.br/pack-figurinhas-2/",
+      "destinationDomain": "packsdeartes.com.br",
+      "isVideo": false
+    },
+    {
+      "id": "apify-1919434128677746",
+      "title": "+ de 10 mil figurinhas para stories Por R$3,99",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=1919434128677746",
+      "platform": "Meta Ad Library",
+      "advertiser": "Templates - Pack de artes",
+      "advertiserAvatar": "https://scontent.fyai1-1.fna.fbcdn.net/v/t39.35426-6/640868437_1444782850579029_425654567516050654_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VxJP-Cdd3bYQ7kNvwEFeHY-&_nc_oc=AdrjjhxnAozgUBhbscqv6QWFG9FOxEgBZ7Eeq6ubOySsnKiHecoT3O2dRHtoMmCHrgo&_nc_zt=14&_nc_ht=scontent.fyai1-1.fna&_nc_gid=KG-UPq7Auj7k9dCYdEZt4w&_nc_ss=78180&oh=00_AQQk_GoeZi8poXNMgOlUtzfbvURpeWT5m-sARMiJtqaM8w&oe=6AF00AD1",
+      "observedDate": "",
+      "niche": "Digital Creator",
+      "copy": "Este pack de figurinhas é a solução ideal para dar um toque profissional aos seus stories no Instagram! Crie stories únicos e de alta qualidade em menos de 5 minutos com essas figurinhas práticas e criativas.\n\n✅ Mais de 10 mil figurinhas prontas para usar\n✅ Bônus exclusivos \n✅ Acesso imediato e vitalício",
+      "cta": "Learn more",
+      "imageUrl": "",
+      "imageUrls": [],
+      "videoUrl": "",
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "destinationUrl": "https://packsdeartes.com.br/pack-figurinhas-2/",
+      "destinationDomain": "packsdeartes.com.br",
+      "isVideo": false
+    },
+    {
+      "id": "apify-1348999147034362",
+      "title": "+ de 10 mil figurinhas para stories Por R$3,99",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=1348999147034362",
+      "platform": "Meta Ad Library",
+      "advertiser": "Templates - Pack de artes",
+      "advertiserAvatar": "https://scontent.fyai1-1.fna.fbcdn.net/v/t39.35426-6/642358671_25978293881864179_8658927273031438545_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Wa7QHiPxzgsQ7kNvwHuClv6&_nc_oc=AdqSMIuKbS2oPdT-sT1-DIzG2H6I98rKVYLPqQ5_05azYF6-5yE1d4XAsFp3OkyWArI&_nc_zt=14&_nc_ht=scontent.fyai1-1.fna&_nc_gid=KG-UPq7Auj7k9dCYdEZt4w&_nc_ss=78180&oh=00_AQS9kPdmX71cDoSykxzt61GZnA-PjwbUZjkyn9jUIPPATQ&oe=6AF00266",
+      "observedDate": "",
+      "niche": "Digital Creator",
+      "copy": "Este pack de figurinhas é a solução ideal para dar um toque profissional aos seus stories no Instagram! Crie stories únicos e de alta qualidade em menos de 5 minutos com essas figurinhas práticas e criativas.\n\n✅ Mais de 10 mil figurinhas prontas para usar\n✅ Bônus exclusivos \n✅ Acesso imediato e vitalício",
+      "cta": "Learn more",
+      "imageUrl": "",
+      "imageUrls": [],
+      "videoUrl": "",
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "destinationUrl": "https://packsdeartes.com.br/pack-figurinhas-2/",
+      "destinationDomain": "packsdeartes.com.br",
+      "isVideo": false
+    },
+    {
+      "id": "apify-2099053654273345",
+      "title": "+ de 10 mil figurinhas para stories Por R$3,99",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=2099053654273345",
+      "platform": "Meta Ad Library",
+      "advertiser": "Templates - Pack de artes",
+      "advertiserAvatar": "https://scontent.fsap13-1.fna.fbcdn.net/v/t39.35426-6/658379610_1898695964105013_1130404494878280755_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GyNpdWXPA7wQ7kNvwGjVFy-&_nc_oc=AdoqKIO-r2B8pkGnw4Jkc1GWliDQDAqJCBR9flKY_lIaQb4t3eRNxyXQUKasfYXt5eA&_nc_zt=14&_nc_ht=scontent.fsap13-1.fna&_nc_gid=SUiX4u3C1tGlpkJbltmcCg&_nc_ss=78289&oh=00_AQSKX78O5YtRsUbCHtFKp3y8e57NXXgOo1mMCi58qeOVag&oe=6AE88949",
+      "observedDate": "",
+      "niche": "Digital Creator",
+      "copy": "Este pack de figurinhas é a solução ideal para dar um toque profissional aos seus stories no Instagram! Crie stories únicos e de alta qualidade em menos de 5 minutos com essas figurinhas práticas e criativas.\n\n✅ Mais de 10 mil figurinhas prontas para usar\n✅ Bônus exclusivos \n✅ Acesso imediato e vitalício",
+      "cta": "Learn more",
+      "imageUrl": "",
+      "imageUrls": [],
+      "videoUrl": "",
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "destinationUrl": "https://packsdeartes.com.br/pack-figurinhas-2/",
+      "destinationDomain": "packsdeartes.com.br",
+      "collationCount": 2,
+      "isVideo": false
+    },
+    {
+      "id": "apify-1710256273017515",
+      "title": "Smart Scan PDF",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=1710256273017515",
+      "platform": "Meta Ad Library",
+      "advertiser": "PDF Reader: Ebook PDFs Reader",
+      "advertiserAvatar": "https://scontent.faep14-4.fna.fbcdn.net/v/t39.35426-6/543124320_1096999645902032_6925105885012629333_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=q-ApOt1wU9gQ7kNvwFAq4of&_nc_oc=AdrEjWG3lzmssb6IBYm_7Fi8atKMfHp_0so0n5n71ruhCofRfG17gGZTnsK-mJUCAYE&_nc_zt=14&_nc_ht=scontent.faep14-4.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQTfZGeiUqUprWoTUL940XAQiN1iIhsa_HWAsVJIy_wMxQ&oe=6AE74540",
+      "observedDate": "",
+      "niche": "Doanh nghiệp",
+      "copy": "Best PDF Reader App 2025, try it now 👉",
+      "cta": "Install now",
+      "imageUrl": "",
+      "imageUrls": [],
+      "videoUrl": "",
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "destinationUrl": "http://play.google.com/store/apps/details?id=com.trustedapp.pdfreaderpdfviewer",
+      "destinationDomain": "play.google.com",
+      "collationCount": 22,
+      "isVideo": false
+    },
+    {
+      "id": "apify-1604218647924649",
+      "title": "O Gemini Notebook organiza dados complexos e cria resumos visuais na tela ampla do Galaxy",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=1604218647924649",
+      "platform": "Meta Ad Library",
+      "advertiser": "Samsung",
+      "advertiserAvatar": "https://scontent.faep14-2.fna.fbcdn.net/v/t39.35426-6/795946786_1081240371221138_2322828224801409570_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bI4fL-5rWL4Q7kNvwHf8Jnd&_nc_oc=AdocYBcxVREjX6Uw50ILzrCMUEibIyEcKKfATBc6c3eWcnq_ipc_NtZRAISr9aUfoOg&_nc_zt=14&_nc_ht=scontent.faep14-2.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQRTpMuvlsPJvaRfbzUeFlc2YUu3ZlgckpEo4p-_0fCtzA&oe=6AE73FF5",
+      "observedDate": "",
+      "niche": "Business",
+      "copy": "O Gemini Notebook organiza dados complexos e cria resumos visuais na tela ampla do Galaxy Z Fold8. É dobrável, versátil e inteligente. Aproveite!",
+      "cta": "Learn more",
+      "imageUrl": "",
+      "imageUrls": [],
+      "videoUrl": "",
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "INSTAGRAM"
+      ],
+      "destinationUrl": "https://www.samsung.com/br/smartphones/galaxy-z-fold8?utm_campaign=br_pd_social_meta_gzfo8_sustain_acc-meta-brandGemini-c-n4rl3s5636_video_glom-intelligenceStacking-15s-skip-na-bhv-entertn-sze17v001215_evoke&utm_medium=meta&utm_source=meta&keeplink=true&cid=br_pd_social_meta_gzfo8_sustain_acc-meta-brandGemini-c-n4rl3s5636_video_glom-intelligenceStacking-15s-skip-na-bhv-entertn-sze17v001215_evoke",
+      "destinationDomain": "samsung.com",
+      "collationCount": 7,
+      "isVideo": false
+    },
+    {
+      "id": "apify-1358467153012075",
+      "title": "Transcribe Audio and Video to Text",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=1358467153012075",
+      "platform": "Meta Ad Library",
+      "advertiser": "TurboScribe",
+      "advertiserAvatar": "https://scontent.faep14-2.fna.fbcdn.net/v/t39.35426-6/709121457_3302896403193699_3272593255594002612_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=O_YRwriNbgoQ7kNvwG5VZVq&_nc_oc=AdraVVsM17NS-V3S8nNyCD5t6zWUmx1TcPb8gqApgeypWZSOfJq-vZMuw_-rC4y8SDA&_nc_zt=14&_nc_ht=scontent.faep14-2.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQRc_L2l-OGJzEtQvO37fmcEgkoJ46Syl-_hTHd_Qlq8cA&oe=6AE72D71",
+      "observedDate": "",
+      "niche": "Software, Business",
+      "copy": "Here's what REAL customers say about TurboScribe 👇\n\n🇦🇺 \"TurboScribe has been such a game-changer for me. I transcribe everything without thinking.\" - Gerardo\n🇺🇸 \"The best AI transcription tool I've ever used.\" - Eric\n🇨🇦 \"I don’t know how I lived without this tool.\" - Thierry\n🇺🇸 \"TURBO SCRIBE TRANSCRIPTION IS THE BEST! it's better than any program I've seen out there.\" - Karen\n🇳🇱 \"Genuinely impressive. It's rare to find services that offer such quality and ease of use. I don't have to pay per minute or worry about limits.\" - Sebastian\n🇷🇴 \"It's so accurate that it's scary!\" - Cosmin\n🇺🇸 \"I'm thoroughly impressed - isn't AI incredible? Thank you for developing such a fantastic AI tool.\" - Kathleen\n🇮🇹 \"The AI transcription tool I've been waiting for.\" -Luca\n🇩🇪 \"Ingenious.\" - Wolfgang\n\nTurboScribe converts audio and video to accurate text in seconds, powered by AI.\n\n🎯 99.8% Accuracy\n♾️ Unlimited Transcriptions\n🔥 Transcribes in Seconds\n🌎 98+ Languages\n😮 10 Hour Uploads\n👥 Speaker Recognition\n📄 Download as DOCX, TXT, PDF\n🎥 Subtitles and Captions (SRT)\n✅ Private & Secure\n\nStart transcribing for free 👇",
+      "cta": "See details",
+      "imageUrl": "",
+      "imageUrls": [],
+      "videoUrl": "",
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "destinationUrl": "https://turboscribe.ai/u/transcribe-audio-and-video-to-text?ref=fb_%7B%7Bcampaign.id%7D%7D_%7B%7Bad.id%7D%7D",
+      "destinationDomain": "turboscribe.ai",
+      "collationCount": 5,
+      "isVideo": false
+    },
+    {
+      "id": "apify-1648042230252089",
+      "title": "Olha o que o Gemini faz",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=1648042230252089",
+      "platform": "Meta Ad Library",
+      "advertiser": "Samsung",
+      "advertiserAvatar": "https://scontent.faep14-2.fna.fbcdn.net/v/t39.35426-6/839090371_2316534475762062_251107501863968329_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BmElfFgb26wQ7kNvwFhmwf-&_nc_oc=Adr17245tLl6m12Q8AyAAdG1_3MA5LiiHBTmTXDQTOiRm9CkULTsVGMg1igw7zMx8GQ&_nc_zt=14&_nc_ht=scontent.faep14-2.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQSRhUlkQ7ffT64PWY-l6wSliVBdD95BpT67NSZMaa1z9A&oe=6AE7453A",
+      "observedDate": "",
+      "niche": "Business",
+      "copy": "O Gemini Notebook organiza dados complexos e cria resumos visuais na tela ampla do Galaxy Z Fold8. É dobrável, versátil e inteligente. Aproveite!",
+      "cta": "Learn More",
+      "imageUrl": "",
+      "imageUrls": [],
+      "videoUrl": "https://video.faep14-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQMepX_WwscQAPxL5xYnIMBXUIKW0iLP2HnqFeR-3bM-j8mlwOZnqgwfgnXsUZyFA5luUmsxJq4xjOj_A7Ue2DOBEC8uQ-kNqtgZDRIGDn7-aw.mp4?_nc_cat=1&_nc_oc=Adq4FKHze-mQJ93Q4wyL2ScO6txUE_qKKyUx1eNnUFKYb15YguC4w7mvDcUSeHS3DTo&_nc_sid=b66105&_nc_ht=video.faep14-3.fna.fbcdn.net&_nc_ohc=DaH8vzokxIwQ7kNvwFV4eBd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIzOTYzNjkwMDc3NzA3MDUsImFzc2V0X2FnZV9kYXlzIjo1MywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=816044bdf45a6a99&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81QjQ3MDIwNUQ5QkI0OUE5NUYxMDA5ODVDNjQwMUE5RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzAyNDdERDYwREIyOTQzQjNCQjQzQjMyMTBBQ0JFQzgxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACai8au3hN_BCBUCKAJDMywXQC4crAgxJukYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&_nc_zt=28&oh=00_AQT0ojyVPYafJfNCGx-kgpyrA7VyWYT7bMs_6L62lPN4hQ&oe=6AE74865",
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "INSTAGRAM"
+      ],
+      "destinationUrl": "https://www.samsung.com/br/smartphones/galaxy-z-fold8?utm_campaign=br_pd_social_meta_gzfo8_sustain_acc-meta-brandGemini-c-n4rl5y9851_video_glom-intelligenceStacking-15s-skip-na-bhv-mgenz-7dxsah005909_awareness&utm_medium=meta&utm_source=meta&keeplink=true&cid=br_pd_social_meta_gzfo8_sustain_acc-meta-brandGemini-c-n4rl5y9851_video_glom-intelligenceStacking-15s-skip-na-bhv-mgenz-7dxsah005909_awareness",
+      "destinationDomain": "samsung.com",
+      "creativeCount": 3,
+      "collationCount": 1,
+      "isVideo": true
+    },
+    {
+      "id": "apify-689624893247755",
+      "title": "📝 Social Emotional Learning Cheat Sheet",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=689624893247755",
+      "platform": "Meta Ad Library",
+      "advertiser": "SEL Power Pack",
+      "advertiserAvatar": "https://scontent.faep14-3.fna.fbcdn.net/v/t39.35426-6/430258650_1549379225902683_3521006028286284634_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UHbpuNTrpOMQ7kNvwEwh7wj&_nc_oc=AdqCorRIcCBJhQ8QwSeUtQ5Yw9yQMhP-Cd_nGGErPFVNTYul5qdIm4cd0WVaTLWDAl4&_nc_zt=14&_nc_ht=scontent.faep14-3.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQTHBOBFEVs87bRX7ISDYpsM50TlDXNK6RVc_3UwMbeuNg&oe=6AE75627",
+      "observedDate": "",
+      "niche": "Education",
+      "copy": "Hey teachers! Want an easy way to bring social emotional learning into your classroom? Download our FREE PDF filled with 52 Social Emotional Learning Prompts now. Topics include social skills, growth mindset, confidence, self esteem, kindness and empathy. click the Download button to get instant access!",
+      "cta": "Download",
+      "imageUrl": "",
+      "imageUrls": [],
+      "videoUrl": "",
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK"
+      ],
+      "destinationUrl": "http://fb.me/",
+      "destinationDomain": "fb.me",
+      "collationCount": 1,
+      "isVideo": false
+    },
+    {
+      "id": "apify-1119531012872213",
+      "title": "Smart Scan PDF",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=1119531012872213",
+      "platform": "Meta Ad Library",
+      "advertiser": "PDF Reader: Ebook PDFs Reader",
+      "advertiserAvatar": "https://scontent.faep14-4.fna.fbcdn.net/v/t39.35426-6/543124320_1096999645902032_6925105885012629333_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=q-ApOt1wU9gQ7kNvwFAq4of&_nc_oc=AdrEjWG3lzmssb6IBYm_7Fi8atKMfHp_0so0n5n71ruhCofRfG17gGZTnsK-mJUCAYE&_nc_zt=14&_nc_ht=scontent.faep14-4.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQTfZGeiUqUprWoTUL940XAQiN1iIhsa_HWAsVJIy_wMxQ&oe=6AE74540",
+      "observedDate": "",
+      "niche": "Doanh nghiệp",
+      "copy": "Best PDF Reader App 2025, try it now 👉",
+      "cta": "Install now",
+      "imageUrl": "",
+      "imageUrls": [],
+      "videoUrl": "",
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "destinationUrl": "http://play.google.com/store/apps/details?id=com.trustedapp.pdfreaderpdfviewer",
+      "destinationDomain": "play.google.com",
+      "isVideo": false
+    },
+    {
+      "id": "apify-2483007662191201",
+      "title": "O Gemini Notebook organiza dados complexos e cria resumos visuais na tela ampla do Galaxy",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=2483007662191201",
+      "platform": "Meta Ad Library",
+      "advertiser": "Samsung",
+      "advertiserAvatar": "https://scontent.faep14-4.fna.fbcdn.net/v/t39.35426-6/801031438_1818019552964962_4596115274149868143_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A5n4Ru2QLTsQ7kNvwGyOfwR&_nc_oc=AdqtKdvXgIpTqZISiXm8QLhV93vV4QhOgUqwLByc8Mg0se825zLlH6FXjwYnc_YMVhg&_nc_zt=14&_nc_ht=scontent.faep14-4.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQRhHlc4gNmA4GVVtKjA-GOfxDcJqHEhtSjAYFCYwKmw2w&oe=6AE726E2",
+      "observedDate": "",
+      "niche": "Business",
+      "copy": "O Gemini Notebook organiza dados complexos e cria resumos visuais na tela ampla do Galaxy Z Fold8. É dobrável, versátil e inteligente. Aproveite!",
+      "cta": "Learn more",
+      "imageUrl": "",
+      "imageUrls": [],
+      "videoUrl": "",
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "INSTAGRAM"
+      ],
+      "destinationUrl": "https://www.samsung.com/br/smartphones/galaxy-z-fold8?utm_campaign=br_pd_social_meta_gzfo8_sustain_acc-meta-brandGemini-c-n4rl5r9631_video_glom-intelligenceStacking-15s-skip-na-rtg-rtgfgenz-sze19p009617_evoke&utm_medium=meta&utm_source=meta&keeplink=true&cid=br_pd_social_meta_gzfo8_sustain_acc-meta-brandGemini-c-n4rl5r9631_video_glom-intelligenceStacking-15s-skip-na-rtg-rtgfgenz-sze19p009617_evoke",
+      "destinationDomain": "samsung.com",
+      "isVideo": false
+    },
+    {
+      "id": "apify-1611313090633883",
+      "title": "O Gemini Notebook organiza dados complexos e cria resumos visuais na tela ampla do Galaxy",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=1611313090633883",
+      "platform": "Meta Ad Library",
+      "advertiser": "Samsung",
+      "advertiserAvatar": "https://scontent.faep14-2.fna.fbcdn.net/v/t39.35426-6/809602428_1360827119582097_132485122949779782_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ioWdBAWIIfAQ7kNvwF8yGEk&_nc_oc=Adr2tK40Tjs5DjM2QwhzrEgTO94QOvCx2Kk-Sy3LOj-lM3ZBrOoeWVQlELUgUJybAsM&_nc_zt=14&_nc_ht=scontent.faep14-2.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQTjx_pTIft-MYYQvGHPyouH320nj1XYYfQmlgAa0YZ57g&oe=6AE74C51",
+      "observedDate": "",
+      "niche": "Business",
+      "copy": "O Gemini Notebook organiza dados complexos e cria resumos visuais na tela ampla do Galaxy Z Fold8. É dobrável, versátil e inteligente. Aproveite!",
+      "cta": "Learn more",
+      "imageUrl": "",
+      "imageUrls": [],
+      "videoUrl": "",
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "INSTAGRAM"
+      ],
+      "destinationUrl": "https://www.samsung.com/br/smartphones/galaxy-z-fold8?utm_campaign=br_pd_social_meta_gzfo8_sustain_acc-meta-brandGemini-c-n4rl532215_video_glom-intelligenceStacking-15s-skip-na-bhv-coaf-1if2wo004594_evoke&utm_medium=meta&utm_source=meta&keeplink=true&cid=br_pd_social_meta_gzfo8_sustain_acc-meta-brandGemini-c-n4rl532215_video_glom-intelligenceStacking-15s-skip-na-bhv-coaf-1if2wo004594_evoke",
+      "destinationDomain": "samsung.com",
+      "isVideo": false
+    },
+    {
+      "id": "apify-1577755140481126",
+      "title": "O Gemini Notebook organiza dados complexos e cria resumos visuais na tela ampla do Galaxy",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=1577755140481126",
+      "platform": "Meta Ad Library",
+      "advertiser": "Samsung",
+      "advertiserAvatar": "https://scontent.faep14-2.fna.fbcdn.net/v/t39.35426-6/800881794_1789345872318171_6196852059089640329_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n_1NBYsP0b0Q7kNvwFFQW4R&_nc_oc=AdqD5_YnmyYBaNGgXa8oWURemmtRYpNeI2HqVGtTmRQza17MvBLHuNn0MHgJ0y00L58&_nc_zt=14&_nc_ht=scontent.faep14-2.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQSwotz-6Hp8U4bU9MaIcgSl5vcBUmA-AqQxc4RYW6Syug&oe=6AE74433",
+      "observedDate": "",
+      "niche": "Business",
+      "copy": "O Gemini Notebook organiza dados complexos e cria resumos visuais na tela ampla do Galaxy Z Fold8. É dobrável, versátil e inteligente. Aproveite!",
+      "cta": "Learn more",
+      "imageUrl": "",
+      "imageUrls": [],
+      "videoUrl": "",
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "INSTAGRAM"
+      ],
+      "destinationUrl": "https://www.samsung.com/br/smartphones/galaxy-z-fold8?utm_campaign=br_pd_social_meta_gzfo8_sustain_acc-meta-brandGemini-c-n4rl2q0675_video_glom-intelligenceStacking-15s-skip-na-bhv-fans-sze17v001215_evoke&utm_medium=meta&utm_source=meta&keeplink=true&cid=br_pd_social_meta_gzfo8_sustain_acc-meta-brandGemini-c-n4rl2q0675_video_glom-intelligenceStacking-15s-skip-na-bhv-fans-sze17v001215_evoke",
+      "destinationDomain": "samsung.com",
+      "isVideo": false
+    },
+    {
+      "id": "apify-1392972359438895",
+      "title": "Curso online p/ Concurso Prefeitura de Campos Gerais - MG - Língua Portuguesa para os Cargos de Nível Médio com os Professores El | Gran Cursos Online",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=1392972359438895",
+      "platform": "Meta Ad Library",
+      "advertiser": "Gran Cursos Online - Concursos Públicos",
+      "advertiserAvatar": "https://scontent.faep14-4.fna.fbcdn.net/v/t39.35426-6/739943719_1368436321833465_2039761153215671587_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iPRtpdtnIjwQ7kNvwFj48hZ&_nc_oc=Adrt3I_YwrS0-UyOmdZS-3iBIB0ZHzqwM4xNy7jDewekOfNDv4r4keZZSB8hJZe4B5s&_nc_zt=14&_nc_ht=scontent.faep14-4.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQQrn7KUL4ZthN1e7S3gqlZUc5HvpNMaPUz4Va3OsM9EWQ&oe=6AE74B2C",
+      "observedDate": "",
+      "niche": "Education website",
+      "copy": "O melhor investimento para a sua carreira está no catálogo do Gran! 💎 Escolha entre nossos cursos 100% focados no seu edital ou a nossa Assinatura Ilimitada para acesso total:\n📌 Acesso a +25.000 cursos: Todas as carreiras em um só lugar.\n📌 Download Ilimitado: Videoaulas e livros digitais disponíveis offline.\n📌 Plataforma Intuitiva: Organize seu progresso de forma simples e rápida.\n📌 Garantia de Satisfação: 7 dias para testar sem compromisso.\n\nClique e escolha o plano que melhor se adapta ao seu bolso e ao seu sonho! 👇",
+      "cta": "Shop Now",
+      "imageUrl": "https://scontent.faep14-3.fna.fbcdn.net/v/t39.35426-6/741013453_1030357542839540_2787484244777228347_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Mj6aVuPo3dwQ7kNvwEIPOTm&_nc_oc=AdoMuaoxkZZlYDTmDQ4cacA8GvOsBdlC7U1TSYyhZ5sexmhTF4_r0OBeXHW1GUSmVCQ&_nc_zt=14&_nc_ht=scontent.faep14-3.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQTmhxHtCxXKEjqM5sy5LaokOAYAsguy033t1eUB9RxrUw&oe=6AE72AFF",
+      "imageUrls": [
+        "https://scontent.faep14-3.fna.fbcdn.net/v/t39.35426-6/741013453_1030357542839540_2787484244777228347_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Mj6aVuPo3dwQ7kNvwEIPOTm&_nc_oc=AdoMuaoxkZZlYDTmDQ4cacA8GvOsBdlC7U1TSYyhZ5sexmhTF4_r0OBeXHW1GUSmVCQ&_nc_zt=14&_nc_ht=scontent.faep14-3.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQTmhxHtCxXKEjqM5sy5LaokOAYAsguy033t1eUB9RxrUw&oe=6AE72AFF",
+        "https://scontent.faep14-3.fna.fbcdn.net/v/t39.35426-6/741013453_1030357542839540_2787484244777228347_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Mj6aVuPo3dwQ7kNvwEIPOTm&_nc_oc=AdoMuaoxkZZlYDTmDQ4cacA8GvOsBdlC7U1TSYyhZ5sexmhTF4_r0OBeXHW1GUSmVCQ&_nc_zt=14&_nc_ht=scontent.faep14-3.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQS7y1cLVNMd0xz2RYCfyXxERe8o9FN8yTIbnYWEkoV6YQ&oe=6AE72AFF",
+        "https://scontent.faep14-2.fna.fbcdn.net/v/t39.35426-6/740070531_2075973389799472_5712118782234544146_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wMIUZQqSFOgQ7kNvwGWn4lT&_nc_oc=AdoECaYGV3AD-F5Qzn1MHzt8Bip_UyHmClPCattzheHmUYwseq88WIdOts2dt4qL3wk&_nc_zt=14&_nc_ht=scontent.faep14-2.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQRKKKRfMnfSWM3Km0iZ-w0abDO3El0Jpamxv9zGnyk20g&oe=6AE73EE3",
+        "https://scontent.faep14-2.fna.fbcdn.net/v/t39.35426-6/740070531_2075973389799472_5712118782234544146_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wMIUZQqSFOgQ7kNvwGWn4lT&_nc_oc=AdoECaYGV3AD-F5Qzn1MHzt8Bip_UyHmClPCattzheHmUYwseq88WIdOts2dt4qL3wk&_nc_zt=14&_nc_ht=scontent.faep14-2.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQTxMlRhH6EXCeLpYyYaskRGLzGJIjFAOBPSFqxZuU2KyA&oe=6AE73EE3",
+        "https://scontent.faep14-2.fna.fbcdn.net/v/t39.35426-6/740276539_1299445428927490_5021803657614817882_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=E_8CJrMjKRgQ7kNvwFpUZSA&_nc_oc=AdrTqiSL0S6BiFYeCXKJ_UU1N7CeEd147M2K_-WJvat0VBRyGLFIOpgrlfAzbw8fL4Y&_nc_zt=14&_nc_ht=scontent.faep14-2.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQRYdb4OLpHgXtILEr_8aJH-Zx6_I6Ftr_e1noTInlhxNg&oe=6AE75743",
+        "https://scontent.faep14-2.fna.fbcdn.net/v/t39.35426-6/740276539_1299445428927490_5021803657614817882_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=E_8CJrMjKRgQ7kNvwFpUZSA&_nc_oc=AdrTqiSL0S6BiFYeCXKJ_UU1N7CeEd147M2K_-WJvat0VBRyGLFIOpgrlfAzbw8fL4Y&_nc_zt=14&_nc_ht=scontent.faep14-2.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQQF6_E79LfHBjkrq1oTtZDhhQhElwaJRcc2jdolEPnI8w&oe=6AE75743",
+        "https://scontent.faep14-2.fna.fbcdn.net/v/t39.35426-6/740797944_1842232173426494_8678335134278964672_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4BqfpYxjGQEQ7kNvwFCHGZD&_nc_oc=AdrU965QhSc0Ro9xLPBdxK8tcB1cIaUdP1QVP88ZQaiq4SOIxX1R_7cC65sQePnqE-I&_nc_zt=14&_nc_ht=scontent.faep14-2.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQRf27rvDE-rQGCj-ciEslEUYKd0wZ_MHtoSLweb2frnQg&oe=6AE74952",
+        "https://scontent.faep14-2.fna.fbcdn.net/v/t39.35426-6/740797944_1842232173426494_8678335134278964672_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4BqfpYxjGQEQ7kNvwFCHGZD&_nc_oc=AdrU965QhSc0Ro9xLPBdxK8tcB1cIaUdP1QVP88ZQaiq4SOIxX1R_7cC65sQePnqE-I&_nc_zt=14&_nc_ht=scontent.faep14-2.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQSUNG52YBD36cPYYK_3J0FR6ShT0AdCeew2EpmdHEPodw&oe=6AE74952",
+        "https://scontent.faep14-3.fna.fbcdn.net/v/t39.35426-6/742417615_2511601525954199_721650526036647026_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=z3JfrOG8ycYQ7kNvwHC9Op4&_nc_oc=AdpMD7nMV0G4RkAWSV_B_Enw6Y6iplWo0zfdP4kQfMJo2F4RBo3kOHiSqxonMmA5lPA&_nc_zt=14&_nc_ht=scontent.faep14-3.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQRhQrKDDXXGPWE05Mni6KQB9YykPiRr7w50MrYPg27qpA&oe=6AE756A7",
+        "https://scontent.faep14-3.fna.fbcdn.net/v/t39.35426-6/742417615_2511601525954199_721650526036647026_n.jpg?_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=z3JfrOG8ycYQ7kNvwHC9Op4&_nc_oc=AdpMD7nMV0G4RkAWSV_B_Enw6Y6iplWo0zfdP4kQfMJo2F4RBo3kOHiSqxonMmA5lPA&_nc_zt=14&_nc_ht=scontent.faep14-3.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQTTZqUT2lkSVD4NmVsVQU4m6mKHxGczlictAVorseRs2Q&oe=6AE756A7",
+        "https://scontent.faep14-2.fna.fbcdn.net/v/t39.35426-6/740407328_1358727655599072_6265238272336225022_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qnrRa0JuaeEQ7kNvwGq49yX&_nc_oc=AdpWHii4saMy1_JOq-PuCBjBKOqHs14lUGQPVe8j357Qmw__mNrDwCFqu21Zyvk28oU&_nc_zt=14&_nc_ht=scontent.faep14-2.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQQ49sH9lnXt8nDMKpmy6UASaxmKOU3d0-4B2_yIN4KeGw&oe=6AE7325C",
+        "https://scontent.faep14-2.fna.fbcdn.net/v/t39.35426-6/740407328_1358727655599072_6265238272336225022_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qnrRa0JuaeEQ7kNvwGq49yX&_nc_oc=AdpWHii4saMy1_JOq-PuCBjBKOqHs14lUGQPVe8j357Qmw__mNrDwCFqu21Zyvk28oU&_nc_zt=14&_nc_ht=scontent.faep14-2.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQT2YG83qyqe8OtvlLPYyM-VITlpPCLo5fDjhnW8g9UPhQ&oe=6AE7325C"
+      ],
+      "videoUrl": "",
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "destinationUrl": "https://www.grancursosonline.com.br/cursos/por-materia/prefeitura-de-campos-gerais-mg-lingua-portuguesa-para-os-cargos-de-nivel-medio-com-os-professores-elias-santana-e-lucas-lemos-pos-edital/cupom/GRAN20-OFF?utm_source=facebook&utm_medium=ads",
+      "destinationDomain": "grancursosonline.com.br",
+      "creativeCount": 6,
+      "isVideo": false
+    },
+    {
+      "id": "apify-1405151644775521",
+      "title": "Comece seu teste gratuito.",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=1405151644775521",
+      "platform": "Meta Ad Library",
+      "advertiser": "Adobe Acrobat",
+      "advertiserAvatar": "https://scontent.faep14-4.fna.fbcdn.net/v/t39.35426-6/744028337_1439807318183707_5018872687587386767_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JCFFjhJq-AAQ7kNvwFt1nEx&_nc_oc=Adq2BWmStOGS_ryM9aE5LvnSb5AUBRKuLO0UBc6i6H2xcsMX1RmHGCCsAhJG3EXKYuI&_nc_zt=14&_nc_ht=scontent.faep14-4.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQS06j_EHYDWawE3EZVYws7YXdsx6JcZViwC70aellOnJA&oe=6AE751B4",
+      "observedDate": "",
+      "niche": "Product/service",
+      "copy": "{{product.brand}}",
+      "cta": "Learn More",
+      "imageUrl": "https://scontent.faep14-2.fna.fbcdn.net/v/t39.35426-6/746493918_1758955391941392_8192578063490842072_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=c6yRKlm_0eQQ7kNvwFl6xqW&_nc_oc=AdoAxogVoatxx1K-vHQBp-tPoxV6BJburSfUMcWlL7kbDDSUJKnw60svgLWGD5imwmo&_nc_zt=14&_nc_ht=scontent.faep14-2.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQQSVu8KsExtwz-OgEsk7vNKG31aJLOSeZvzsdr9Uc7Ebw&oe=6AE734F2",
+      "imageUrls": [
+        "https://scontent.faep14-2.fna.fbcdn.net/v/t39.35426-6/746493918_1758955391941392_8192578063490842072_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=c6yRKlm_0eQQ7kNvwFl6xqW&_nc_oc=AdoAxogVoatxx1K-vHQBp-tPoxV6BJburSfUMcWlL7kbDDSUJKnw60svgLWGD5imwmo&_nc_zt=14&_nc_ht=scontent.faep14-2.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQQSVu8KsExtwz-OgEsk7vNKG31aJLOSeZvzsdr9Uc7Ebw&oe=6AE734F2",
+        "https://scontent.faep14-4.fna.fbcdn.net/v/t39.35426-6/746615742_1341027154286282_4794563046701701315_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=J7JJiW-jcpQQ7kNvwEVx-hM&_nc_oc=Ado8LpDpG2LvWTyQGiLXEESfFR419BXK1lCTFjcnhvdGfLdAoRA6GpXLUjQaaJD_H5Y&_nc_zt=14&_nc_ht=scontent.faep14-4.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQTgqImiFFvMSd9EqoTACCwUO38CeAprrJt8bDc-R3SVlA&oe=6AE72B57",
+        "https://scontent.faep14-4.fna.fbcdn.net/v/t39.35426-6/746411842_1702306814227850_6997290058830090017_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VKmsbCQnn5UQ7kNvwHaQDWE&_nc_oc=AdqkOlGf02dEEY8ze98Fqto30Z5CXZbATuzW2rQqQ3s_tPJPDPLbh_aEwzHN2q2T_wk&_nc_zt=14&_nc_ht=scontent.faep14-4.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQSa2j8kdvZynSIUmrc4PKnsxJa73HJ-lniTrikFLvRLdQ&oe=6AE73B28",
+        "https://scontent.faep14-4.fna.fbcdn.net/v/t39.35426-6/747062605_1311547787808865_8766339590070238702_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JE5TtvEgha4Q7kNvwGywJZE&_nc_oc=Adoqno3b8DjJuTr88K77Zra78OfjHgaFNDR5X4C0Zso5fnnOgPEThU3cWSq9Fg3GxVU&_nc_zt=14&_nc_ht=scontent.faep14-4.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQTC_owcZ_vT6xWPnthhH5HcGbkeyhtusctgP0nkrJ_dZA&oe=6AE75A36",
+        "https://scontent.faep14-3.fna.fbcdn.net/v/t39.35426-6/747378905_2441732523003501_6129581915550844843_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mbdpM01CZBcQ7kNvwFACmKI&_nc_oc=AdqCMuqf7DORD_ZuBZk9Gua-ltb5AVCSLwdxVdJj8mobDg3F97KkTxVim7Elmnj1AHw&_nc_zt=14&_nc_ht=scontent.faep14-3.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQR1oWR_GPLXmncz4DVPEL5yYlVvZi77tmjtfdWwec3ZcA&oe=6AE73EA8",
+        "https://scontent.faep14-2.fna.fbcdn.net/v/t39.35426-6/746615746_861748366729252_302855151312398810_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3NSpczjsjmgQ7kNvwHLH7uA&_nc_oc=AdqcxWqqIJZ9UN5elpmIDWHFniL87VhipMVgZDZVQBGvaJZR95DBcPzTyDEhsbdvRMs&_nc_zt=14&_nc_ht=scontent.faep14-2.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQQaE4eFmrptIilxC4vg87RkVgkW4vfDnFRxE1-xvnpAjg&oe=6AE74601"
+      ],
+      "videoUrl": "",
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "destinationUrl": "https://www.adobe.com/br/acrobat/free-trial-download.html?sdid=5S7K81G3&mv=social&mv2=paidsoc&ad_id={{ad.id}}&adset_id={{adset.id}}&campaign_id={{campaign.id}}",
+      "destinationDomain": "adobe.com",
+      "creativeCount": 3,
+      "collationCount": 4,
+      "isVideo": false
+    },
+    {
+      "id": "apify-1929825951019576",
+      "title": "Adobe Acrobat",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=1929825951019576",
+      "platform": "Meta Ad Library",
+      "advertiser": "Adobe Acrobat",
+      "advertiserAvatar": "https://scontent.faep14-2.fna.fbcdn.net/v/t39.35426-6/778869732_990749084011792_1295268004642112211_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DR1wkZp0wL8Q7kNvwGZ_Vjf&_nc_oc=Adoyqw9Yxa-kQrxdb9vbFjW7T9pjopdmHZhOqsT_zYLMp30Ju_Us2g9QVe4EWClvBoU&_nc_zt=14&_nc_ht=scontent.faep14-2.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQR_KVXyCrXQrQ9Ka1aTaREzHsx5Mn8r0PIG611_PGz8xg&oe=6AE73610",
+      "observedDate": "",
+      "niche": "Product/service",
+      "copy": "{{product.brand}}",
+      "cta": "Learn More",
+      "imageUrl": "",
+      "imageUrls": [],
+      "videoUrl": "https://video.faep14-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQNI5KEOH9PiNKdiUf1IiUGgo3jxcjfKfegBC5dNmvZbSO43YbgyGYbqUUp_ayABU8T0WNn6JVkRn54dn2D1dC2_w3Jb6CUwkMzXG5tbh3D0_Q.mp4?_nc_cat=101&_nc_oc=AdrJwLc3ZB3Ttniho6PDCIRTJGvu0QQJsKcM5w8-jcKU-NC9rBkx208pDehJbRnDCY4&_nc_sid=b66105&_nc_ht=video.faep14-2.fna.fbcdn.net&_nc_ohc=3oy_RgUvimgQ7kNvwE9QLCX&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMzM2Mjk2MTYxMTgyMzYsImFzc2V0X2FnZV9kYXlzIjo3MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjc1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=f5ab1153ee442672&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83NzQwREUxMjNGQjVGQjRCQzE2MTgzQ0FEQzMxQjc4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUzNDY5QTkxOTI0RjY2MTdBNTdENTc3NjIzQ0M4MkFGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa458jhlIXWAxUCKAJDMywXQFLkzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRd5OmSdnqNBXFe2QzX9gDWlMtANxmqXFplZ02Zy-HAkw&oe=6AE74ACB",
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "destinationUrl": "https://www.adobe.com/br/acrobat/free-trial-download.html?sdid=5S7K81G3&mv=social&mv2=paidsoc&ad_id={{ad.id}}&adset_id={{adset.id}}&campaign_id={{campaign.id}}",
+      "destinationDomain": "adobe.com",
+      "creativeCount": 3,
+      "collationCount": 1,
+      "isVideo": true
+    },
+    {
+      "id": "apify-1733982611058070",
+      "title": "Adobe Acrobat",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=1733982611058070",
+      "platform": "Meta Ad Library",
+      "advertiser": "Adobe Acrobat",
+      "advertiserAvatar": "https://scontent.faep14-3.fna.fbcdn.net/v/t39.35426-6/777237676_1086866400579013_6824874608526487948_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=go2esFd7P2IQ7kNvwE5nP4v&_nc_oc=AdrLDX_qxBl6QHOsjcNa0jvmhkMpNkxHpn5h5kn5RjZQchnyobrAeJ6doXtYMlRPU9U&_nc_zt=14&_nc_ht=scontent.faep14-3.fna&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&oh=00_AQRtlMz-hHWEAyh0jCQ1EHel6-veQa43o_JgHkqdmGHQFA&oe=6AE749BC",
+      "observedDate": "",
+      "niche": "Product/service",
+      "copy": "{{product.brand}}",
+      "cta": "Learn More",
+      "imageUrl": "",
+      "imageUrls": [],
+      "videoUrl": "https://video.faep14-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQNcL6bdrZ3Hiqn4Ms8GaQiA1Rw-nroDDUAW9ixpULPznY-r8rbpjRXom-BzuQ0Pyg2sUWxDBNhzsavHLvF2lHu9HxBXiZJh4JYCkO2WvEzfWw.mp4?_nc_cat=106&_nc_oc=Adp5NlXHf4jql2kNV79B-JJ_aJbSPccwQAnhzLnLIgR_HP2okaXI1YX1CueMf9lgBOc&_nc_sid=b66105&_nc_ht=video.faep14-2.fna.fbcdn.net&_nc_ohc=NK8GxEt6gcsQ7kNvwH9GC6Q&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQ1NzMxOTIzMjYyNDc5MzMsImFzc2V0X2FnZV9kYXlzIjo3MCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjc0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=f52e61296b1f5083&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80NDQ5MjNEQkM1RUUxRjFGRTM3MjczMTBFNjk3OTI4NV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzhDNDIwMkMyRTEyRjFCRTc0RjBENjUwOTNBMEYwOTk0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb618OB6tKfEBUCKAJDMywXQFKaDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=hE1oP6a5WSjMQOD62L4nOQ&_nc_ss=78289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQKDSZhR-GxXTNtJp689xgjmViFzu3enuEnm7BcSgrj_A&oe=6AE7289A",
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "destinationUrl": "https://www.adobe.com/br/acrobat/free-trial-download.html?sdid=5S7K81G3&mv=social&mv2=paidsoc&ad_id={{ad.id}}&adset_id={{adset.id}}&campaign_id={{campaign.id}}",
+      "destinationDomain": "adobe.com",
+      "creativeCount": 3,
+      "collationCount": 1,
+      "isVideo": true
+    },
+    {
+      "id": "apify-1574578817102045",
+      "title": "Máquina de cartão com as menores taxas",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=1574578817102045",
+      "platform": "Meta Ad Library",
+      "advertiser": "InfinitePay",
+      "advertiserAvatar": "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/639482905_718941641172429_7215318015418997162_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=353S6YodLf4Q7kNvwEXC57b&_nc_oc=Adrh07Y3TC5CAj7-WBq9gQc57geHqGs8KOpmAJ8MCp4M4KsOkqHmkTW1-7vJdiObdqY&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQPDrRGPYjmZaikajf6fdw_7aTgCDtyXBFiZf7G2gq03pw&oe=6AE6EEE4",
+      "observedDate": "",
+      "niche": "Product/service",
+      "copy": "Com a InfinitePay, você tem taxas a partir de 0,75%, Pix grátis e recebe seu dinheiro na hora ou em 1 dia útil. E ainda conta com uma conta digital gratuita!\n\nAproveite o desconto e o frete grátis para todo o Brasil! 🚀",
+      "cta": "Learn more",
+      "imageUrl": "",
+      "imageUrls": [],
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "destinationUrl": "https://www.infinitepay.io/maquina-cartao",
+      "destinationDomain": "infinitepay.io",
+      "collationCount": 7,
+      "isVideo": false
+    },
+    {
+      "id": "apify-2365115190692745",
+      "title": "Kit tapete e passadeira Yoda Star Wars 60x40 cm + 1,20 m - antiderrapante, lavável",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=2365115190692745",
+      "platform": "Meta Ad Library",
+      "advertiser": "Shopee",
+      "advertiserAvatar": "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/825268500_1067931469391241_1029591140423536133_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=X3Ky7q9DBUEQ7kNvwG1PUSu&_nc_oc=AdrYI19IMn-v368xb79FnIxJZAhf_1DtTAZVpVJtE38zRL9B38fCf-YuXFgtUtFPgpY&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQOomoJXVSP8YHiXyfpGduaDO1i7iRlf4MretR7lLt_20g&oe=6AE6ED08",
+      "observedDate": "",
+      "niche": "App page",
+      "copy": "Tá procurando um cupom para sua próxima compra? Olha na Shopee e garanta seu produto preferido com desconto",
+      "cta": "Shop Now",
+      "imageUrl": "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/829657839_4702535823299558_4173121071330686588_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XLaH1xxXTVEQ7kNvwEupfUa&_nc_oc=AdqHvcU5KfBSSMbaIvtr6-Uao0PX3gxSAEMOullmyomhHzMsFZzpCWnE-y8vW97Li-A&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQO2ufeqKYnM2Jvu-yPy0XUsl-wAjYXMJM20cMbsDcqTOA&oe=6AE6F525",
+      "imageUrls": [
+        "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/829657839_4702535823299558_4173121071330686588_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XLaH1xxXTVEQ7kNvwEupfUa&_nc_oc=AdqHvcU5KfBSSMbaIvtr6-Uao0PX3gxSAEMOullmyomhHzMsFZzpCWnE-y8vW97Li-A&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQO2ufeqKYnM2Jvu-yPy0XUsl-wAjYXMJM20cMbsDcqTOA&oe=6AE6F525",
+        "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/829657839_4702535823299558_4173121071330686588_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XLaH1xxXTVEQ7kNvwEupfUa&_nc_oc=AdqHvcU5KfBSSMbaIvtr6-Uao0PX3gxSAEMOullmyomhHzMsFZzpCWnE-y8vW97Li-A&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQNnZ9g3zgTHANsbjVbIKiLyz4YgJiiVTF7itjhyoxizfQ&oe=6AE6F525",
+        "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/828255341_4289091484715084_1729030569335158215_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dEXdl9fbwlEQ7kNvwFdpP2x&_nc_oc=Adr24wuwXa4QTt5jkOgaym1HWo8OeShLbx6tsBSnOUM9U9PAX2H7AOPYQgFvBaxE85g&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQNP_ohA7ZMR0JTqEyiP7ERUI69oJlRXvxrdjecBTf36og&oe=6AE6D16E",
+        "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/828255341_4289091484715084_1729030569335158215_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dEXdl9fbwlEQ7kNvwFdpP2x&_nc_oc=Adr24wuwXa4QTt5jkOgaym1HWo8OeShLbx6tsBSnOUM9U9PAX2H7AOPYQgFvBaxE85g&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQMq0ZDZUqofHYF2hK_eeWhrfqFwdVYgBquJ5VZTnfsD6w&oe=6AE6D16E",
+        "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/825909885_1609024017346428_1643912826456838917_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=o5bg52_olkAQ7kNvwH8Rumr&_nc_oc=AdoEjkqyGiVJoEI7HnSVO8hMVidBArDZ3xvsxRAhl8rrx6D1k6n3VyW4CwTH6wMbMss&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQONqq2ENwbs3oGvhK8s8qaheS3MKE3C0c0aXzoo6iGL9Q&oe=6AE6CEA7",
+        "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/825909885_1609024017346428_1643912826456838917_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=o5bg52_olkAQ7kNvwH8Rumr&_nc_oc=AdoEjkqyGiVJoEI7HnSVO8hMVidBArDZ3xvsxRAhl8rrx6D1k6n3VyW4CwTH6wMbMss&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQM79pj8taLt5eTXeIFZk7J58X0eGbPULLxMZl9siFYzgw&oe=6AE6CEA7",
+        "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/827548495_1463859865560572_5215487369147367357_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G3Ur6fGq4sIQ7kNvwGRELsc&_nc_oc=AdrLVST_HuUdopPvr9_hD5wxiqjK9IgkZi1G2Jv54zvH9Owz03JacGvzpzvImMug7lk&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQNY1h6OhdiVXNd1ZhcCzLkdkt91TBnUlQqbAsnepdzUNg&oe=6AE6D1C5",
+        "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/827548495_1463859865560572_5215487369147367357_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G3Ur6fGq4sIQ7kNvwGRELsc&_nc_oc=AdrLVST_HuUdopPvr9_hD5wxiqjK9IgkZi1G2Jv54zvH9Owz03JacGvzpzvImMug7lk&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQOKyf8oJirwSjZ7xgSfyKO_9BrVE3SbHpoAoFfJUlHVjQ&oe=6AE6D1C5",
+        "https://scontent.fria4-2.fna.fbcdn.net/v/t39.35426-6/830681684_1440061171367863_7823403918671738891_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aEuAJ2OzUQsQ7kNvwFPPrKW&_nc_oc=AdrV45v6HWFTzq7U63CvJBHTWiCLx09GP9Ua7twCXTvjbMgrl3Sf0mIv2Eo-fW5Nyio&_nc_zt=14&_nc_ht=scontent.fria4-2.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQMMWyXM2ODWqu21Na_w1fZP5Xr2ogFKZ2aWzW3_tbPHyQ&oe=6AE6F568",
+        "https://scontent.fria4-2.fna.fbcdn.net/v/t39.35426-6/830681684_1440061171367863_7823403918671738891_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aEuAJ2OzUQsQ7kNvwFPPrKW&_nc_oc=AdrV45v6HWFTzq7U63CvJBHTWiCLx09GP9Ua7twCXTvjbMgrl3Sf0mIv2Eo-fW5Nyio&_nc_zt=14&_nc_ht=scontent.fria4-2.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQOCF-HyCAjk7OjwSfwXFLDp8TXdQCUvQdnf-r4ZtoVEZQ&oe=6AE6F568",
+        "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/825268420_1080503594794679_5474051195050939269_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q1nD6SCERqoQ7kNvwHSqfwP&_nc_oc=AdpSa8TxUcZkbpqEfiFYisRpiQjCv0pgRy4fH6PXHByuhFJceThnfO1YRl2kGWL_8zU&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQO_RxGM2QlUJVHRyaR7YXnaYetlo1J9fcd2gIT9xsCJ5A&oe=6AE6CA6F",
+        "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/825268420_1080503594794679_5474051195050939269_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q1nD6SCERqoQ7kNvwHSqfwP&_nc_oc=AdpSa8TxUcZkbpqEfiFYisRpiQjCv0pgRy4fH6PXHByuhFJceThnfO1YRl2kGWL_8zU&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQNvBaByRXv52svskMLmxkA2hdhNdAiN965mXym7xWQO_g&oe=6AE6CA6F"
+      ],
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "FACEBOOK",
+        "INSTAGRAM"
+      ],
+      "destinationUrl": "https://shopee.com.br/lp/meta/282381660/10006561370?__mobile__=1",
+      "destinationDomain": "shopee.com.br",
+      "creativeCount": 6,
+      "isVideo": false
+    },
+    {
+      "id": "apify-1830258335001474",
+      "title": "CRM e Automação",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=1830258335001474",
+      "platform": "Meta Ad Library",
+      "advertiser": "Centro Universitário Belas Artes de São Paulo",
+      "advertiserAvatar": "https://scontent.fria4-2.fna.fbcdn.net/v/t39.35426-6/825268408_1560962398631059_4610039794067089879_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bP2Qfwr7pBAQ7kNvwHRnaQV&_nc_oc=AdoWP7umRJ4nWEt99JB7WvgGZHAaqUQLJGGHlfXwGI7LuEJi4ssx8yUNWtVH6OaSs-w&_nc_zt=14&_nc_ht=scontent.fria4-2.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQM8onUuiOBYrZMyvg1KO_rAHgSOsfwB8p33KKmxTri90g&oe=6AE6D6E3",
+      "observedDate": "",
+      "niche": "College & university",
+      "copy": "Acelere sua carreira no mercado criativo com a tradição e a inovação! \nSe você busca atualização rápida, prática e especializada em áreas como Design, Moda, Arquitetura, Negócios e Marketing, Reaprenda a ver na Belas Artes. Inscreva-se",
+      "cta": "Learn More",
+      "imageUrl": "https://scontent.fria4-2.fna.fbcdn.net/v/t39.35426-6/825273618_1713475713045193_1294818898198292594_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hV6O53F8pqAQ7kNvwHurM7x&_nc_oc=AdpBrdrlddpYtWh4ulS2tJBfafQRSeuQmJEve4HHARdqSRA_iOIOb1kTGbfxZiKDlXI&_nc_zt=14&_nc_ht=scontent.fria4-2.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQMjNh6LuBIB0watiAy8yWRK-BEz4VwerCT_GJOmiWiqlg&oe=6AE6D999",
+      "imageUrls": [
+        "https://scontent.fria4-2.fna.fbcdn.net/v/t39.35426-6/825273618_1713475713045193_1294818898198292594_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hV6O53F8pqAQ7kNvwHurM7x&_nc_oc=AdpBrdrlddpYtWh4ulS2tJBfafQRSeuQmJEve4HHARdqSRA_iOIOb1kTGbfxZiKDlXI&_nc_zt=14&_nc_ht=scontent.fria4-2.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQMjNh6LuBIB0watiAy8yWRK-BEz4VwerCT_GJOmiWiqlg&oe=6AE6D999",
+        "https://scontent.fria4-2.fna.fbcdn.net/v/t39.35426-6/825273618_1713475713045193_1294818898198292594_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hV6O53F8pqAQ7kNvwHurM7x&_nc_oc=AdpBrdrlddpYtWh4ulS2tJBfafQRSeuQmJEve4HHARdqSRA_iOIOb1kTGbfxZiKDlXI&_nc_zt=14&_nc_ht=scontent.fria4-2.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQNyve4VWGK7jSds-pXxjZZogNVUG7_u_dYQ1iZkP-unaw&oe=6AE6D999",
+        "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/825353354_1758069095498268_7492336153688499496_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GMQlOGcr0VsQ7kNvwHvOZQ4&_nc_oc=Adqy0pnSKRQsS6VXkr9KQjarCUXUoe50Gh30IbrpqUjaKav4IiEo86l_B9K6vjGOHbk&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQP9CDft7t16sq256HxIkQvfDAIv-dccODrt2IzgMqEXEQ&oe=6AE6F48D",
+        "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/825353354_1758069095498268_7492336153688499496_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GMQlOGcr0VsQ7kNvwHvOZQ4&_nc_oc=Adqy0pnSKRQsS6VXkr9KQjarCUXUoe50Gh30IbrpqUjaKav4IiEo86l_B9K6vjGOHbk&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQPUIwlZKkm6rMIIR7AcJF8h2yACUOhRzeSw5lE5T5BS0Q&oe=6AE6F48D",
+        "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/825267905_1524229972802857_1269201327397771578_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ReMmejGN4bkQ7kNvwFsgBpZ&_nc_oc=Ado8wLozE67QQB7YZN5m3x6nnwqBvpkpOB4cRGxSXnApWq9aLpAWXfKRLcO53ftrW0Q&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQNXpdGSWYBruP2_41aR1N1In7tjyY73w1sO7QUrONKDPQ&oe=6AE6C922",
+        "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/825267905_1524229972802857_1269201327397771578_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ReMmejGN4bkQ7kNvwFsgBpZ&_nc_oc=Ado8wLozE67QQB7YZN5m3x6nnwqBvpkpOB4cRGxSXnApWq9aLpAWXfKRLcO53ftrW0Q&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQNTCzioHyD_5dZAZ0AHdLK8u3cxF-VF4_eR74XDQuyNBA&oe=6AE6C922",
+        "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/825268047_1443756027647834_4979068561064627446_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YCYzjrjXxmoQ7kNvwFge_D7&_nc_oc=AdrPSdK9mu8mh4i1t9SbTiUtLHv4BvR3u715A1lrSE8_J6uxdsg1baTf5X8sQvs2Dug&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQM84Hfee-jwYBaWp--HBo2TILbO4XR6uPFuFDmFf-d3uA&oe=6AE6E13E",
+        "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/825268047_1443756027647834_4979068561064627446_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YCYzjrjXxmoQ7kNvwFge_D7&_nc_oc=AdrPSdK9mu8mh4i1t9SbTiUtLHv4BvR3u715A1lrSE8_J6uxdsg1baTf5X8sQvs2Dug&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQNkixWqC3rR57u5hTAyBB0T_PtCfhEnI9TdtRaL6H4I-Q&oe=6AE6E13E",
+        "https://scontent.fria4-2.fna.fbcdn.net/v/t39.35426-6/825273582_2247839152458964_1627223911015090958_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RKIuIEcDqvwQ7kNvwGaSsGB&_nc_oc=AdoEVlYc_00hunPlNr1iDUMXxsMq_x1KgtC4Fv_Pbn0WzWPH99UTd7ZSMrWuo8OqS0E&_nc_zt=14&_nc_ht=scontent.fria4-2.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQOWQkvcR4l-ruiKVVP9wlAbV8s6Qo2EkAtJOPMJcwIDYg&oe=6AE6F052",
+        "https://scontent.fria4-2.fna.fbcdn.net/v/t39.35426-6/825273582_2247839152458964_1627223911015090958_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RKIuIEcDqvwQ7kNvwGaSsGB&_nc_oc=AdoEVlYc_00hunPlNr1iDUMXxsMq_x1KgtC4Fv_Pbn0WzWPH99UTd7ZSMrWuo8OqS0E&_nc_zt=14&_nc_ht=scontent.fria4-2.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQP2DIKnG-OU21dgBwdf02kR6tsJ0_a0okahyvi-jTgMMQ&oe=6AE6F052",
+        "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/825267853_1076293995322361_665936914175222710_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BUFMVXwsky4Q7kNvwG2wceZ&_nc_oc=AdqVGEYe3QhBsxZhD9sA4CgNmYuQPNvL7prFYkVI9orKzODEVEq1dYX6hWuN6WwGRtk&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQPINgC1LAPCv9iUjZq78ke_QeFOWR2jwFmxfRqx88YWeA&oe=6AE6E507",
+        "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/825267853_1076293995322361_665936914175222710_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BUFMVXwsky4Q7kNvwG2wceZ&_nc_oc=AdqVGEYe3QhBsxZhD9sA4CgNmYuQPNvL7prFYkVI9orKzODEVEq1dYX6hWuN6WwGRtk&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQPID4389dvKWiQhGSyevwJD8iRIdQCXaKIdCIdJZ0NkeQ&oe=6AE6E507"
+      ],
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "THREADS"
+      ],
+      "destinationUrl": "https://loja.belasartes.br/cursos/crm-e-automacao/?utm_source=meta-ads&utm_medium=paid-social_cpc&utm_campaign=ba-online_ba-online_conversao_catalogo_conversao_conversao&utm_term=base_meta&utm_content=catalogo_catalogo",
+      "destinationDomain": "loja.belasartes.br",
+      "creativeCount": 6,
+      "isVideo": false
+    },
+    {
+      "id": "apify-4242004646084828",
+      "title": "Realize Sonhos, Seja Consultora",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=4242004646084828",
+      "platform": "Meta Ad Library",
+      "advertiser": "Natura",
+      "advertiserAvatar": "https://scontent.fria4-2.fna.fbcdn.net/v/t39.35426-6/524936973_1246570803608642_1156987331768163576_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IsDAHJiDAQUQ7kNvwF0obST&_nc_oc=Adoc59weRR3XnWq-XyZZnSTNqkgOUSZSRmbgG1sI6PSpsXVzka5U3Be-ssrJG9invnk&_nc_zt=14&_nc_ht=scontent.fria4-2.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQOaI9-r_D0hLZ7NUVfgw854OG8ov7D_FVpOElRonVI_0w&oe=6AE6E59E",
+      "observedDate": "",
+      "niche": "Beauty Supplies",
+      "copy": "Cadastre-se e comece sua jornada como Consultora hoje mesmo!",
+      "cta": "Sign up",
+      "imageUrl": "",
+      "imageUrls": [],
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "MESSENGER"
+      ],
+      "destinationUrl": "https://accounts.natura-avon.com/queroserconsultora/",
+      "destinationDomain": "accounts.natura-avon.com",
+      "collationCount": 1,
+      "isVideo": false
+    },
+    {
+      "id": "apify-2224995958353005",
+      "title": "Abra sua conta hoje",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=2224995958353005",
+      "platform": "Meta Ad Library",
+      "advertiser": "ARQ",
+      "advertiserAvatar": "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/803323525_1633625481804324_8649236021343810474_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ut7lHM6ZFAsQ7kNvwFUaSG1&_nc_oc=AdqaHgtBlP9Q7WSTmwa2tLNqjB70-XbQw6QdL1RWiDiTPFGHXAI5P_l70poz6ypIOqo&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQN8fmN4Et50bsA2mE8fpxDtiYuOJ7hVhsKrRFZQpt4_dg&oe=6AE6D30B",
+      "observedDate": "",
+      "niche": "Financial Service",
+      "copy": "Vale a pena comprar um iPhone no Paraguai?",
+      "cta": "Download",
+      "imageUrl": "",
+      "imageUrls": [],
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "destinationUrl": "http://itunes.apple.com/app/id1567954123",
+      "destinationDomain": "itunes.apple.com",
+      "collationCount": 1,
+      "isVideo": false
+    },
+    {
+      "id": "apify-1638435184949934",
+      "title": "Leandro Ladeira",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=1638435184949934",
+      "platform": "Meta Ad Library",
+      "advertiser": "Leandro Ladeira",
+      "advertiserAvatar": "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/724795015_1316663023923805_2400603521328445712_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ljkF2f0zZYUQ7kNvwH3QbFi&_nc_oc=Adq36nBpSPNO_pR9ExDiRqYzDOPPNWdfimLFYHrJ98DRXllBiVWzo9554Axkzf6V7Ec&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQMPQxsvyOzQsoNPI1vhFNq-ec7XD63-OTI5YrfgZVuD-A&oe=6AE6DD66",
+      "observedDate": "",
+      "niche": "Entrepreneur",
+      "copy": "",
+      "cta": "Learn more",
+      "imageUrl": "",
+      "imageUrls": [],
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "FACEBOOK",
+        "INSTAGRAM"
+      ],
+      "destinationUrl": "https://urlgeni.us/instagram/leandroladeira",
+      "destinationDomain": "urlgeni.us",
+      "collationCount": 1,
+      "isVideo": false
+    },
+    {
+      "id": "apify-901294486253962",
+      "title": "Nosso embaixador @rodrigohilbert testou a nova Air Fryer Oven 14L Digital da Mondial e apr",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=901294486253962",
+      "platform": "Meta Ad Library",
+      "advertiser": "Mondial",
+      "advertiserAvatar": "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/831036426_2253744348753588_3570969389000565443_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Rv048RBxikQQ7kNvwHQwDWf&_nc_oc=AdrRrD66DMaju2mudnRLvDcu_S0EFqhuIXbGPARi_jRA4lFOsDPxkz66PIXofxgWXeo&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQOXso91v2fH1zFg2PyjOOcOD9G8cxPDSYJR7ihFIaTNJw&oe=6AE6EE1C",
+      "observedDate": "",
+      "niche": "Retail company",
+      "copy": "Nosso embaixador @rodrigohilbert testou a nova Air Fryer Oven 14L Digital da Mondial e aprovou!\n\nCom painel touch colorido e imagens dos alimentos, escolher entre os 10 pratos pré-programados fica muito mais fácil e intuitivo. Com o visor amplo e a iluminação interna, fica fácil acompanhar o preparo de pertinho, sem precisar abrir o produto. Incrível né?\n\nAgora fica a pergunta: qual prato você prepararia primeiro? 👀\n#MondialBR #AirFryerOvenMondial #AirFryer #ReceitasMondial #AEscolhaInteligente",
+      "cta": "See details",
+      "imageUrl": "",
+      "imageUrls": [],
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "INSTAGRAM",
+        "THREADS"
+      ],
+      "destinationUrl": "http://www.instagram.com/mondialbr",
+      "destinationDomain": "instagram.com",
+      "collationCount": 1,
+      "isVideo": false
+    },
+    {
+      "id": "apify-932525899538203",
+      "title": "🚗📈 O Seguro Mapfre Auto está em movimento. E o seu negócio também.\n\nAmpliação dos limite",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=932525899538203",
+      "platform": "Meta Ad Library",
+      "advertiser": "MAPFRE",
+      "advertiserAvatar": "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/825336848_1405234815142834_4244363778437086394_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YxoRRrVagewQ7kNvwFeAXxn&_nc_oc=Adr15_KaI5HrpVsIzlnBotUnyHDU48eieHdc2LcRdVV5KOEA49KI9ksTWP5F9b2OB3w&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQPVK9CRjqrO-ALNoXP_AnPGyOhXXiBPtGtwr2uvxBv6gg&oe=6AE6DCAE",
+      "observedDate": "",
+      "niche": "Insurance company",
+      "copy": "🚗📈 O Seguro Mapfre Auto está em movimento. E o seu negócio também.\n\nAmpliação dos limites de aceitação, novidades em coberturas e serviços, além de recursos que apoiam as negociações e ajudam você a vender ainda mais.\n\nNeste bate-papo especial, Cássio Reis e Marcia Resende visitam a Loschiavo Corretora para conversar com Mario Loschiavo sobre as novidades que estão fortalecendo o Mapfre Auto.\n\n ▶️ Assista ao vídeo e descubra como estamos evoluindo para apoiar cada vez mais os corretores e clientes.\n\n #MapfreCorretor #MapfreAuto #MapfreEmMovimento #CorretorDeSeguros #SeguroAuto",
+      "cta": "See details",
+      "imageUrl": "",
+      "imageUrls": [],
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "AUDIENCE_NETWORK",
+        "THREADS"
+      ],
+      "destinationUrl": "https://www.mapfre.com.br/para-voce/seguro-auto/automais/",
+      "destinationDomain": "mapfre.com.br",
+      "collationCount": 1,
+      "isVideo": false
+    },
+    {
+      "id": "apify-1439455360956560",
+      "title": "Máquina de cartão com as menores taxas",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=1439455360956560",
+      "platform": "Meta Ad Library",
+      "advertiser": "InfinitePay",
+      "advertiserAvatar": "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/638324737_1228712236077055_3376341586787286295_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BBAThuQAelAQ7kNvwEB1ENr&_nc_oc=AdrmDqBj_1HeTZUb2PxtYZUNkIyLmevEeDDBq4OTuioIvI1TKpORlbSg1l94OmICDBU&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQPwZnb5ht_ppbTca35huoMcxUChtRDR32lCbyatMmhtfw&oe=6AE6EA77",
+      "observedDate": "",
+      "niche": "Product/service",
+      "copy": "Com a InfinitePay, você tem taxas a partir de 0,75%, Pix grátis e recebe seu dinheiro na hora ou em 1 dia útil. E ainda conta com uma conta digital gratuita!\n\nAproveite o desconto e o frete grátis para todo o Brasil! 🚀",
+      "cta": "Learn more",
+      "imageUrl": "",
+      "imageUrls": [],
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "destinationUrl": "https://www.infinitepay.io/maquina-cartao",
+      "destinationDomain": "infinitepay.io",
+      "isVideo": false
+    },
+    {
+      "id": "apify-1859845651325644",
+      "title": "Máquina de cartão com as menores taxas",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=1859845651325644",
+      "platform": "Meta Ad Library",
+      "advertiser": "InfinitePay",
+      "advertiserAvatar": "https://scontent.fria4-2.fna.fbcdn.net/v/t39.35426-6/638430790_1646642366518252_2780284416835827631_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3E6VAxlOqq4Q7kNvwGjnQwq&_nc_oc=AdqoLUtcfFEEk-_YYLtQaUdR8MLymgPpvfYaOzOxtKTovDf2VW9q2-MEQyfp9Ab5BTE&_nc_zt=14&_nc_ht=scontent.fria4-2.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQOrmU4xd44lQdnhWWW_sJARis2X2RKNNU8W1MDFbUynDw&oe=6AE6FC57",
+      "observedDate": "",
+      "niche": "Product/service",
+      "copy": "Com a InfinitePay, você tem taxas a partir de 0,75%, Pix grátis e recebe seu dinheiro na hora ou em 1 dia útil. E ainda conta com uma conta digital gratuita!\n\nAproveite o desconto e o frete grátis para todo o Brasil! 🚀",
+      "cta": "Learn more",
+      "imageUrl": "",
+      "imageUrls": [],
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "MESSENGER"
+      ],
+      "destinationUrl": "https://www.infinitepay.io/maquina-cartao",
+      "destinationDomain": "infinitepay.io",
+      "isVideo": false
+    },
+    {
+      "id": "apify-4230168250556610",
+      "title": "Com a InfinitePay, você tem taxas a partir de 0,75%, Pix grátis e recebe seu dinheiro na h",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=4230168250556610",
+      "platform": "Meta Ad Library",
+      "advertiser": "InfinitePay",
+      "advertiserAvatar": "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/638256825_953847580546640_2046350498036450654_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yeZ_D6xG1cIQ7kNvwGCtjA9&_nc_oc=AdqpIA76CXJvp_h9v-IpM5qkeWRYTmDAO2-JjSmekxYtt4upomheF6GY6dDsFH8fleM&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQM6jcejUnrA0gMGnD2fT38ChoBGsAOScZ6_j689h5dKzw&oe=6AE6C5F7",
+      "observedDate": "",
+      "niche": "Product/service",
+      "copy": "Com a InfinitePay, você tem taxas a partir de 0,75%, Pix grátis e recebe seu dinheiro na hora ou em 1 dia útil. E ainda conta com uma conta digital gratuita!\n\nAproveite o desconto e o frete grátis para todo o Brasil! 🚀",
+      "cta": "Learn more",
+      "imageUrl": "",
+      "imageUrls": [],
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "INSTAGRAM"
+      ],
+      "destinationUrl": "https://www.infinitepay.io/maquina-cartao",
+      "destinationDomain": "infinitepay.io",
+      "isVideo": false
+    },
+    {
+      "id": "apify-2106041560232615",
+      "title": "Máquina de cartão com as menores taxas",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=2106041560232615",
+      "platform": "Meta Ad Library",
+      "advertiser": "InfinitePay",
+      "advertiserAvatar": "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/639482905_718941641172429_7215318015418997162_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=353S6YodLf4Q7kNvwEXC57b&_nc_oc=Adrh07Y3TC5CAj7-WBq9gQc57geHqGs8KOpmAJ8MCp4M4KsOkqHmkTW1-7vJdiObdqY&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQPDrRGPYjmZaikajf6fdw_7aTgCDtyXBFiZf7G2gq03pw&oe=6AE6EEE4",
+      "observedDate": "",
+      "niche": "Product/service",
+      "copy": "Com a InfinitePay, você tem taxas a partir de 0,75%, Pix grátis e recebe seu dinheiro na hora ou em 1 dia útil. E ainda conta com uma conta digital gratuita!\n\nAproveite o desconto e o frete grátis para todo o Brasil! 🚀",
+      "cta": "Learn more",
+      "imageUrl": "",
+      "imageUrls": [],
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "MESSENGER"
+      ],
+      "destinationUrl": "https://www.infinitepay.io/maquina-cartao",
+      "destinationDomain": "infinitepay.io",
+      "isVideo": false
+    },
+    {
+      "id": "apify-1242302518024788",
+      "title": "Máquina de cartão com as menores taxas",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=1242302518024788",
+      "platform": "Meta Ad Library",
+      "advertiser": "InfinitePay",
+      "advertiserAvatar": "https://scontent.fria4-1.fna.fbcdn.net/v/t39.35426-6/639688920_671247006045930_2805282299233830319_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=akLKm-wjsDIQ7kNvwFeU3Ek&_nc_oc=AdpWSiAf4LxRArQXdK9wir-B1keBs6cGpMJqIbjB9ypsqRqffaU3085IWplvQondkoo&_nc_zt=14&_nc_ht=scontent.fria4-1.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQMhC40GixDPFfsU2IfFFd6jWG9Wsbpy32J-8b3hYfq7LA&oe=6AE6D1AA",
+      "observedDate": "",
+      "niche": "Product/service",
+      "copy": "Com a InfinitePay, você tem taxas a partir de 0,75%, Pix grátis e recebe seu dinheiro na hora ou em 1 dia útil. E ainda conta com uma conta digital gratuita!\n\nAproveite o desconto e o frete grátis para todo o Brasil! 🚀",
+      "cta": "Learn more",
+      "imageUrl": "",
+      "imageUrls": [],
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "MESSENGER"
+      ],
+      "destinationUrl": "https://www.infinitepay.io/maquina-cartao",
+      "destinationDomain": "infinitepay.io",
+      "isVideo": false
+    },
+    {
+      "id": "apify-2321123245033666",
+      "title": "Máquina de cartão com as menores taxas",
+      "sourceUrl": "https://www.facebook.com/ads/library/?id=2321123245033666",
+      "platform": "Meta Ad Library",
+      "advertiser": "InfinitePay",
+      "advertiserAvatar": "https://scontent.fria4-2.fna.fbcdn.net/v/t39.35426-6/636842918_4248564938757493_2804814304416699453_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QgZFmmy8RJ8Q7kNvwHOU7Ni&_nc_oc=AdrDzOOqhz7LiHRO-52KfiAatND3th1WUSgkZqAmDL7v9CyAhDauVO6ytWsETXMARDA&_nc_zt=14&_nc_ht=scontent.fria4-2.fna&_nc_gid=paE56zQom4yVugZAmlPiVA&_nc_ss=78289&oh=00_AQOxLN_rFiK-vShAWKhqL8vJVctk0OghxZLtLmgnvzdxDg&oe=6AE6D9C9",
+      "observedDate": "",
+      "niche": "Product/service",
+      "copy": "Com a InfinitePay, você tem taxas a partir de 0,75%, Pix grátis e recebe seu dinheiro na hora ou em 1 dia útil. E ainda conta com uma conta digital gratuita!\n\nAproveite o desconto e o frete grátis para todo o Brasil! 🚀",
+      "cta": "Learn more",
+      "imageUrl": "",
+      "imageUrls": [],
+      "notes": "",
+      "activeStatus": "Ativo",
+      "platformsList": [
+        "FACEBOOK",
+        "INSTAGRAM",
+        "MESSENGER",
+        "THREADS"
+      ],
+      "destinationUrl": "https://www.infinitepay.io/maquina-cartao",
+      "destinationDomain": "infinitepay.io",
+      "isVideo": false
+    }
+  ],
+  "dailyMining": {
+    "date": "2026-11-03",
+    "query": "pdf-videos-v4-low-ticket",
+    "results": [
+      {
+        "id": "apify-929442639749702",
+        "title": "+ de 10 mil figurinhas para stories Por R$3,99",
+        "sourceUrl": "https://www.facebook.com/ads/library/?id=929442639749702",
+        "platform": "Meta Ad Library",
+        "advertiser": "Templates - Pack de artes",
+        "advertiserAvatar": "https://scontent.fyai1-1.fna.fbcdn.net/v/t39.35426-6/642358671_25978293881864179_8658927273031438545_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Wa7QHiPxzgsQ7kNvwHuClv6&_nc_oc=AdqSMIuKbS2oPdT-sT1-DIzG2H6I98rKVYLPqQ5_05azYF6-5yE1d4XAsFp3OkyWArI&_nc_zt=14&_nc_ht=scontent.fyai1-1.fna&_nc_gid=KG-UPq7Auj7k9dCYdEZt4w&_nc_ss=78180&oh=00_AQS9kPdmX71cDoSykxzt61GZnA-PjwbUZjkyn9jUIPPATQ&oe=6AF00266",
+        "observedDate": "",
+        "niche": "Digital Creator",
+        "copy": "Este pack de figurinhas é a solução ideal para dar um toque profissional aos seus stories no Instagram! Crie stories únicos e de alta qualidade em menos de 5 minutos com essas figurinhas práticas e criativas.\n\n✅ Mais de 10 mil figurinhas prontas para usar\n✅ Bônus exclusivos \n✅ Acesso imediato e vitalício",
+        "cta": "Learn more",
+        "imageUrl": "",
+        "imageUrls": [],
+        "videoUrl": "",
+        "notes": "",
+        "activeStatus": "Ativo",
+        "platformsList": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "destinationUrl": "https://packsdeartes.com.br/pack-figurinhas-2/",
+        "destinationDomain": "packsdeartes.com.br",
+        "collationCount": 7,
+        "isVideo": false
+      },
+      {
+        "id": "apify-27636571502599881",
+        "title": "+ de 10 mil figurinhas para stories Por R$3,99",
+        "sourceUrl": "https://www.facebook.com/ads/library/?id=27636571502599881",
+        "platform": "Meta Ad Library",
+        "advertiser": "Templates - Pack de artes",
+        "advertiserAvatar": "https://scontent.fyai1-1.fna.fbcdn.net/v/t39.35426-6/666362597_26479952898293032_4039996065353316025_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AeyPsCBtbh0Q7kNvwFm6paX&_nc_oc=AdrYt_ewjL2bIpeOJAzABtVmRt1L2SqELy_w7XrxKl-MB48BE0gBERdUDysb3lGFBe8&_nc_zt=14&_nc_ht=scontent.fyai1-1.fna&_nc_gid=KG-UPq7Auj7k9dCYdEZt4w&_nc_ss=78180&oh=00_AQSN0bIqcoa986_sT9i4_02T1AHrzT2PRTm13a8PsOHBYA&oe=6AF017ED",
+        "observedDate": "",
+        "niche": "Digital Creator",
+        "copy": "Este pack de figurinhas é a solução ideal para dar um toque profissional aos seus stories no Instagram! Crie stories únicos e de alta qualidade em menos de 5 minutos com essas figurinhas práticas e criativas.\n\n✅ Mais de 10 mil figurinhas prontas para usar\n✅ Bônus exclusivos \n✅ Acesso imediato e vitalício",
+        "cta": "Learn more",
+        "imageUrl": "",
+        "imageUrls": [],
+        "videoUrl": "",
+        "notes": "",
+        "activeStatus": "Ativo",
+        "platformsList": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "destinationUrl": "https://packsdeartes.com.br/pack-figurinhas-2/",
+        "destinationDomain": "packsdeartes.com.br",
+        "isVideo": false
+      },
+      {
+        "id": "apify-1318639770323842",
+        "title": "+ de 10 mil figurinhas para stories Por R$3,99",
+        "sourceUrl": "https://www.facebook.com/ads/library/?id=1318639770323842",
+        "platform": "Meta Ad Library",
+        "advertiser": "Templates - Pack de artes",
+        "advertiserAvatar": "https://scontent.fyai1-1.fna.fbcdn.net/v/t39.35426-6/660497205_1329332209016539_677491704574441921_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Mk6f8Qk-fu4Q7kNvwGwOCtn&_nc_oc=AdrvPkGGHOZ7Jr7noszDBtfg9FpVV3B4lZ9C5wcVK6LmGSA9Yej8qczNUfLIKQ7uStQ&_nc_zt=14&_nc_ht=scontent.fyai1-1.fna&_nc_gid=KG-UPq7Auj7k9dCYdEZt4w&_nc_ss=78180&oh=00_AQT5kzbNHSXFppl1l5o4jjunO1PZgaCYJibtv2L9FVhWoA&oe=6AEFE69B",
+        "observedDate": "",
+        "niche": "Digital Creator",
+        "copy": "Este pack de figurinhas é a solução ideal para dar um toque profissional aos seus stories no Instagram! Crie stories únicos e de alta qualidade em menos de 5 minutos com essas figurinhas práticas e criativas.\n\n✅ Mais de 10 mil figurinhas prontas para usar\n✅ Bônus exclusivos \n✅ Acesso imediato e vitalício",
+        "cta": "Learn more",
+        "imageUrl": "",
+        "imageUrls": [],
+        "videoUrl": "",
+        "notes": "",
+        "activeStatus": "Ativo",
+        "platformsList": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "destinationUrl": "https://packsdeartes.com.br/pack-figurinhas-2/",
+        "destinationDomain": "packsdeartes.com.br",
+        "isVideo": false
+      },
+      {
+        "id": "apify-1919434128677746",
+        "title": "+ de 10 mil figurinhas para stories Por R$3,99",
+        "sourceUrl": "https://www.facebook.com/ads/library/?id=1919434128677746",
+        "platform": "Meta Ad Library",
+        "advertiser": "Templates - Pack de artes",
+        "advertiserAvatar": "https://scontent.fyai1-1.fna.fbcdn.net/v/t39.35426-6/640868437_1444782850579029_425654567516050654_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VxJP-Cdd3bYQ7kNvwEFeHY-&_nc_oc=AdrjjhxnAozgUBhbscqv6QWFG9FOxEgBZ7Eeq6ubOySsnKiHecoT3O2dRHtoMmCHrgo&_nc_zt=14&_nc_ht=scontent.fyai1-1.fna&_nc_gid=KG-UPq7Auj7k9dCYdEZt4w&_nc_ss=78180&oh=00_AQQk_GoeZi8poXNMgOlUtzfbvURpeWT5m-sARMiJtqaM8w&oe=6AF00AD1",
+        "observedDate": "",
+        "niche": "Digital Creator",
+        "copy": "Este pack de figurinhas é a solução ideal para dar um toque profissional aos seus stories no Instagram! Crie stories únicos e de alta qualidade em menos de 5 minutos com essas figurinhas práticas e criativas.\n\n✅ Mais de 10 mil figurinhas prontas para usar\n✅ Bônus exclusivos \n✅ Acesso imediato e vitalício",
+        "cta": "Learn more",
+        "imageUrl": "",
+        "imageUrls": [],
+        "videoUrl": "",
+        "notes": "",
+        "activeStatus": "Ativo",
+        "platformsList": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "destinationUrl": "https://packsdeartes.com.br/pack-figurinhas-2/",
+        "destinationDomain": "packsdeartes.com.br",
+        "isVideo": false
+      },
+      {
+        "id": "apify-1348999147034362",
+        "title": "+ de 10 mil figurinhas para stories Por R$3,99",
+        "sourceUrl": "https://www.facebook.com/ads/library/?id=1348999147034362",
+        "platform": "Meta Ad Library",
+        "advertiser": "Templates - Pack de artes",
+        "advertiserAvatar": "https://scontent.fyai1-1.fna.fbcdn.net/v/t39.35426-6/642358671_25978293881864179_8658927273031438545_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Wa7QHiPxzgsQ7kNvwHuClv6&_nc_oc=AdqSMIuKbS2oPdT-sT1-DIzG2H6I98rKVYLPqQ5_05azYF6-5yE1d4XAsFp3OkyWArI&_nc_zt=14&_nc_ht=scontent.fyai1-1.fna&_nc_gid=KG-UPq7Auj7k9dCYdEZt4w&_nc_ss=78180&oh=00_AQS9kPdmX71cDoSykxzt61GZnA-PjwbUZjkyn9jUIPPATQ&oe=6AF00266",
+        "observedDate": "",
+        "niche": "Digital Creator",
+        "copy": "Este pack de figurinhas é a solução ideal para dar um toque profissional aos seus stories no Instagram! Crie stories únicos e de alta qualidade em menos de 5 minutos com essas figurinhas práticas e criativas.\n\n✅ Mais de 10 mil figurinhas prontas para usar\n✅ Bônus exclusivos \n✅ Acesso imediato e vitalício",
+        "cta": "Learn more",
+        "imageUrl": "",
+        "imageUrls": [],
+        "videoUrl": "",
+        "notes": "",
+        "activeStatus": "Ativo",
+        "platformsList": [
+          "FACEBOOK",
+          "INSTAGRAM",
+          "AUDIENCE_NETWORK",
+          "MESSENGER",
+          "THREADS"
+        ],
+        "destinationUrl": "https://packsdeartes.com.br/pack-figurinhas-2/",
+        "destinationDomain": "packsdeartes.com.br",
+        "isVideo": false
+      }
+    ]
+  },
+  "campaigns": [],
+  "credits": {
+    "balance": 0,
+    "history": []
+  }
+}
